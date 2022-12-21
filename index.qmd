@@ -1,6 +1,8 @@
 ---
 title: "J. Derek Tucker"
-subtitle: "Distinguished Member of Technical Staff, Sandia National Laboratories\\ Adjunct Professor, Department of Statistics, University of Illinois"
+description: | 
+             | *Distinguished Member of Technical Staff*, Sandia National Laboratories 
+             | *Adjunct Professor*, Department of Statistics, University of Illinois
 image: images/me.jpg
 about:
   template: trestles
@@ -20,6 +22,7 @@ about:
 resources:
     - "Docs/JDT_CV.pdf"
 ---
+
 ::: {.column-page}
 
 ## Bio
