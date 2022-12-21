@@ -1,0 +1,57 @@
+---
+title: "J. Derek Tucker"
+subtitle: "Distinguished Member of Technical Staff, Sandia National Laboratories\\ Adjunct Professor, Department of Statistics, University of Illinois"
+image: images/me.jpg
+about:
+  template: trestles
+  links:
+    - icon: linkedin
+      url: "https://linkedin.com/in/derek-tucker-04247818"
+    - icon: github
+      url: "https://github.com/jdtuck"
+    - icon: google
+      url: "https://scholar.google.com/citations?user=1jdvTZwAAAAJ&hl=en"
+    - icon: file-pdf
+      url: "http://arxiv.org/a/tucker_j_1"
+    - icon: bi-envelope
+      url: "mailto:jdtuck@sandia.gov"
+    - text: CV
+      href: "Docs/JDT_CV.pdf"
+resources:
+    - "Docs/JDT_CV.pdf"
+---
+::: {.column-page}
+
+## Bio
+I obtained my Ph.D. in Statistics from [Florida State University](http://www.fsu.edu/). I received the B.S. and M.S. degrees from [Colorado State University](https://www.colostate.edu/), Fort Collins, in 2007 and 2009, respectively, both in electrical engineering, with an emphasis on statistical signal processing. My dissertation was advised by [Anuj Srivastava](http://ani.stat.fsu.edu/~anuj/) and [Wei Wu](http://ani.stat.fsu.edu/~wwu/) and focused modeling of unaligned functional data. Currently, I am a Distinguished Member of the Technical Staff at Sandia National Laboratories in Albuquerque, NM and an adjunct faculty member of the Department of Statistics at the University of Illinois. At Illinois I teach a topics course on functional data analysis. Recently, I received the Director of National Intelligence Team Award for contributions to the Signal Location in Complex Environments (SLiCE) team.
+
+My main interest lies in the area of functional data analysis with a focus on geometric methods and unaligned data. I recently have emphasized on statistical analysis and modeling of this type of data. My other research interests include statistical image understanding, statistical learning methods, and point processes.
+
+## Education
+
+My full CV is available [here](Docs/JDT_CV.pdf).
+
+**Florida State University**
+Tallahasee, FL
+
+Ph.D. in Statistics | August 2011 - June 2014  
+
+**Colorado State University**
+Fort Collins, CO
+
+M.S. in Electrical Engineering | August 2007 - May 2009\
+B.S. in Electrical Engineering | August 2004 - May 2007
+
+## Contact Information
+
+J. Derek Tucker			
+[Statistical Sciences](http://www.sandia.gov/statistics/)  
+[Sandia National Laboratories](http://www.sandia.gov/)  
+PO Box 5800 MS 0829		
+Albuquerque, NM 87185
+
+Email SNL: [jdtuck@sandia.gov](mailto:jdtuck@sandia.gov)  
+Email UIUC: [dtucker1@illinois.edu](mailto:dtucker1@illinois.edu)  
+Phone: 505-284-8415
+
+:::

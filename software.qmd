@@ -1,0 +1,22 @@
+---
+title: "Software"
+---
+
+## `fdasrvf`
+I'm lead author of the `fdasrvf` R package ([CRAN](https://cran.r-project.org/web/packages/fdasrvf/index.html); [GitHub](https://github.com/jdtuck/fdasrvf_R)). 
+
+This package performs alignment, PCA, and modeling of multidimensional and unidimensional functions using the square-root velocity framework (Srivastava et al., 2011 [arXiv:1103.3817](https://arxiv.org/abs/1103.3817) and Tucker et al., 2013 [doi:10.1016/j.csda.2012.12.001](Papers/CSDA_PCA_12.pdf)). This framework allows for elastic analysis of functional data through phase and amplitude separation. Multiple papers utilize the work in this package and is listed in the [CRAN Functional Data Analysis Task View](https://cran.r-project.org/web/views/FunctionalData.html). See the package README for all the methods it implements and reference papers.
+
+There are also version of this code for [MATLAB](https://github.com/jdtuck/fdasrvf_MATLAB), and [Julia](https://github.com/jdtuck/ElasticFDA.jl)
+
+Documentation for the Julia (Documentation: [HTML](http://elasticfdajl.readthedocs.org/en/latest/))
+
+## `fdasrsf`
+I'm lead author of the `fdasrsf` python package ([PYPI](https://cran.r-project.org/web/packages/fdasrvf/index.html);
+[Conda](https://anaconda.org/conda-forge/fdasrsf);
+[GitHub](https://github.com/jdtuck/fdasrsf_python)). 
+
+This package performs alignment, PCA, and modeling of multidimensional and unidimensional functions using the square-root velocity framework (Srivastava et al., 2011 [arXiv:1103.3817](https://arxiv.org/abs/1103.3817) and Tucker et al., 2013 [doi:10.1016/j.csda.2012.12.001](Papers/CSDA_PCA_12.pdf)). This framework allows for elastic analysis of functional data through phase and amplitude separation. Multiple papers utilize the work in this work and listed in the documentation. See the package README for all the methods it implements and reference papers.
+
+Documentation for the Python (Documentation: [HTML](https://fdasrsf-python.readthedocs.io/en/latest/?badge=latest))
+

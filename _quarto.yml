@@ -1,0 +1,40 @@
+project:
+  type: website
+
+website:
+  title: "J. Derek Tucker"
+  description: "Personal website of J. Derek Tucker"
+  site-url: https://research.tetonedge.net
+  repo-url: https://github.com/jdtuck/website
+  google-analytics: "G-39ERQKY9NZ"
+  twitter-card: true
+  open-graph:
+    locale: en_US
+  favicon: favicon.png
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - research.qmd
+      - papers.qmd
+      - software.qmd
+      - resume.qmd
+      - icon: linkedin
+        url: "https://linkedin.com/in/derek-tucker-04247818"
+      - icon: github
+        url: "https://github.com/jdtuck"
+  page-footer:
+    left: "© Copyright 2023 J. Derek Tucker. Except where otherwise noted"
+  cookie-consent: true
+
+format:
+  html:
+    theme: [sandstone, _variables.scss]
+    css: styles.css
+    toc: true
+    toc-depth: 4
+    toc-title: "Contents"
+    html-math-method: katex
+    include-in-header:
+      - includes.html
+    highlight-style: tango

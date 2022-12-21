@@ -1,0 +1,65 @@
+---
+title: "Resume"
+---
+
+[Detailed CV](Docs/JDT_CV.pdf)
+
+### Research Interests
+Statistical Image Understanding, Signal Analysis, Target Classification, Detection Theory, Computational Statistics
+
+### Education
+**Doctor of Philosophy** in Statistics (2014)		
+*Florida State University, Tallahassee, FL*		
+**Thesis title:** Functional Component Analysis and Regression Using Elastic Methods [PDF](Papers/dissertation.pdf)		
+**Thesis advisor:** Prof. Anuj Srivastava		
+**Thesis co-advisor:** Prof. Wei Wu		
+ 
+**Master of Science** in Electrical Engineering (2009)		
+*Colorado State University, Fort Collins, CO*		
+**Thesis title:** Coherence-based Underwater Target Detection for Side-Scan Sonar Imagery [PDF](Papers/MS%20Thesis.pdf)		
+**Thesis advisor:** Prof. Mahmood Azimi		
+
+**Bachelor of Science** in Electrical Engineering (2007)		
+*Colorado State University, Fort Collins, CO*		
+**Senior project:** Magnetic Spin Wave Detection and Localization		
+
+### Experience	
+**Adjunct Faculty** (2020-Present)
+University of Illinois
+Department of Statistics
+Champaign, IL
+
+**Distinguished Member of Technical Staff** (2022-Present)				
+Sandia National Laboratories		
+Statistical Sciences		
+Albuquerque, NM		
+
+**Principal Member of Technical Staff** (2017-2022)				
+Sandia National Laboratories		
+Statistical Sciences		
+Albuquerque, NM		
+
+**Senior Member of Technical Staff** (2014-2017)				
+Sandia National Laboratories		
+Statistical Sciences		
+Albuquerque, NM			
+
+**Research Assistant** (2011-2014)		
+Statistics		
+Florida State University, Tallahassee, FL		
+
+**Research Engineer** (2009 - 2014)		
+Naval Surface Warfare Center		
+Panama City Division - Code X13		
+Panama City, FL		
+
+**Research Engineer** (2007 - 2009)		
+Information System Technologies, INC 		
+Fort Collins, CO		
+
+**Research Assistant** (2006-2009)		
+Digital Signal and Image Laboratory		
+Colorado State University, Fort Collins, CO		
+
+### Affiliations	
+IEEE (Senior Member), ASA, SIAM
