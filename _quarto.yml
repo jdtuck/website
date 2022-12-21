@@ -27,6 +27,9 @@ website:
     left: "© Copyright 2023 J. Derek Tucker. Except where otherwise noted"
   cookie-consent: true
 
+execute:
+  freeze: auto
+
 format:
   html:
     theme: [sandstone, _variables.scss]
