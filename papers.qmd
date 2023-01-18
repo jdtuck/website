@@ -138,7 +138,9 @@ N. Klausner, M. R. Azimi-Sadjadi, and **J. D. Tucker**, "Underwater target detec
 **J. D. Tucker**, M. R. Azimi-Sadjadi, and G. J. Dobeck, "Coherent-based method for detection of underwater objects from sonar imagery," *Proc. SPIE*, vol. 6553, pp. 65530U– 1–65520U–8, April 2007. [PDF](Papers/spie07.pdf)
 
 ## Invited Talks
-"Elastic Functional Data Analysis", *SMU Statistical Colloquium*, November 4, 2022
+"Elasic Bayesian Model Calibration" *FSU Shape Group Statistical Meeting*, January 24, 2023, [Slides](https://jdtuck.github.io/presentations/FSU_Jan23/FSU_Jan23.html) 
+
+"Elastic Functional Data Analysis", *SMU Statistical Colloquium*, November 4, 2022, [Slides](Presentations/2022SMU_Nov_22.pdf)
 
 "Elastic Functional Tolerance Bounds", *LANL Statistical Colloquium*, December 16, 2020
 
@@ -152,9 +154,9 @@ N. Klausner, M. R. Azimi-Sadjadi, and **J. D. Tucker**, "Underwater target detec
 
 "Doppler Multi-INT Detection and Tracking", *NSWC-PCD Invited Lecture*, October 1, 2015 
 
-"Alignment and Analysis of Proteomics Data using Square Root Slope Function Framework'', *CTW: Statistics of Time Warpings and Phase Variations 2012*, OSU MBI, Nov 7, 2012 [PDF](Presentations/MBI2012_Tucker.pdf)
+"Alignment and Analysis of Proteomics Data using Square Root Slope Function Framework'', *CTW: Statistics of Time Warpings and Phase Variations 2012*, OSU MBI, Nov 7, 2012 [Slides](Presentations/MBI2012_Tucker.pdf)
 
-"Statistical Analysis and Modeling of Elastic Functions'', *Department of Mathematical and Statistical Sciences, University of Alberta*, Aug 23, 2011. (Organizer: Yau Shu Wong) [PDF](Presentations/UA-Function_Warping.pdf)
+"Statistical Analysis and Modeling of Elastic Functions'', *Department of Mathematical and Statistical Sciences, University of Alberta*, Aug 23, 2011. (Organizer: Yau Shu Wong) [Slides](Presentations/UA-Function_Warping.pdf)
 
 ## Patents
 "Method and system for training an artifical neural network utilizing physics based knowledge" US Patent No. Applied
