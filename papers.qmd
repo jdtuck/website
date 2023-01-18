@@ -140,7 +140,7 @@ N. Klausner, M. R. Azimi-Sadjadi, and **J. D. Tucker**, "Underwater target detec
 ## Invited Talks
 "Elasic Bayesian Model Calibration" *FSU Shape Group Statistical Meeting*, January 24, 2023, [Slides](https://jdtuck.github.io/presentations/FSU_Jan23/FSU_Jan23.html) 
 
-"Elastic Functional Data Analysis", *SMU Statistical Colloquium*, November 4, 2022, [Slides](Presentations/2022SMU_Nov_22.pdf)
+"Elastic Functional Data Analysis", *SMU Statistical Colloquium*, November 4, 2022, [Slides](Presentations/SMU_Nov_22.pdf)
 
 "Elastic Functional Tolerance Bounds", *LANL Statistical Colloquium*, December 16, 2020
 
