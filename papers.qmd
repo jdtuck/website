@@ -15,7 +15,7 @@ K. Rumsey, and J. G. Huerta, and **J. D. Tucker**, "A Localized Ensemble of Appr
 
 **J. D. Tucker**, M. T. Martinez, and J. M. Laborde, "Dimensionality Reduction using Elastic Measures", *Stat*, accepted, 2022. [arxiv preprint](https://arxiv.org/abs/2209.04933)
 
-J. Upston, D. Sulsky, **J. D. Tucker**, and Y. Guan, "CIEL\*Ch color map for visualization and analysis of sea ice motion", *Journal of Computational and Applied Mathematics *, accepted, 2022.
+J. Upston, D. Sulsky, **J. D. Tucker**, and Y. Guan, "CIEL\*Ch color map for visualization and analysis of sea ice motion", *Journal of Computational and Applied Mathematics *, /10.1016/j.cam.2023.115126, 2022. [PDF](Papers/1-s2.0-S0377042723000705-main.pdfupda)
 
 ## 2022
 M. A. Ausdemore, A. McCombs, D. Ries, A. Zhang, K. Shuler, K. Goode, **J. D. Tucker** and J. G. Huerta, “A Probabilistic Inverse Prediction Method for Predicting Plutonium Processing Conditions”, *Frontiers in Nuclear Engineering-Nuclear Materials*. 10.3389/fnuen.2022.1083164, 2022.[PDF](Papers/PuBASS_Frontiers_2022.pdf)
