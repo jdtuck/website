@@ -11,7 +11,7 @@ COPYRIGHT NOTICE: The material listed here are copyrighted. Personal use of this
 ## 2023
 **J. D. Tucker** and D. Yarger, "Elastic Functional Changepoint Detection", *Envirometrics*, submitted, 2022. [arxiv preprint](https://arxiv.org/abs/2211.12687)
 
-K. Rumsey, and J. G. Huerta, and **J. D. Tucker**, "A Localized Ensemble of Approximate Gaussian Processes for Fast Sequential Emulation", *Stat*, submitted, 2022.
+K. Rumsey, and J. G. Huerta, and **J. D. Tucker**, "A Localized Ensemble of Approximate Gaussian Processes for Fast Sequential Emulation", *Stat*, accepted, 2022.
 
 **J. D. Tucker**, M. T. Martinez, and J. M. Laborde, "Dimensionality Reduction using Elastic Measures", *Stat*, 10.1002/sta4.551, 2023. [PDF](Papers/Stat23.pdf)
 
