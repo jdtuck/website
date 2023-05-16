@@ -9,6 +9,8 @@ title: "Papers"
 COPYRIGHT NOTICE: The material listed here are copyrighted. Personal use of this material is permitted. However, permission to reprint/publish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the copyright holder.
 
 ## 2023
+D. Francom, **J. D. Tucker**, J. G. Huerta, K. Shuler, and D. Ries, "Elastic Bayesian Model Calibration", *Arxiv*, submitted, 2023. [arxiv preprint](https://arxiv.org/abs/2305.08834)
+
 **J. D. Tucker** and D. Yarger, "Elastic Functional Changepoint Detection", *Envirometrics*, submitted, 2022. [arxiv preprint](https://arxiv.org/abs/2211.12687)
 
 K. Rumsey, and J. G. Huerta, and **J. D. Tucker**, "A Localized Ensemble of Approximate Gaussian Processes for Fast Sequential Emulation", *Stat*, 10.1002/sta4.576, 2023. [PDF](Papers/leapGP23.pdf)
