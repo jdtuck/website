@@ -9,6 +9,8 @@ title: "Papers"
 COPYRIGHT NOTICE: The material listed here are copyrighted. Personal use of this material is permitted. However, permission to reprint/publish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the copyright holder.
 
 ## 2023
+Christian A. Pattyn, Alexander W. Edstrom, Andres L. Sanchez, Karl Westlake, John D. van der Laan, **J. Derek Tucker**, Jessica Jones, Kaylin Hagopian, Joshua C. Shank, Lilian K. Casias, Jeremy B. Wright, "Event-based sensing for the detection of modulated signals in degraded visual environments", *Proc. SPIE 12514, Image Sensing Technologies: Materials, Devices, Systems, and Applications X, 1251409*, 2023. [PDF](Papers/SPIE23.pdf)
+
 D. Francom, **J. D. Tucker**, J. G. Huerta, K. Shuler, and D. Ries, "Elastic Bayesian Model Calibration", *Arxiv*, submitted, 2023. [arxiv preprint](https://arxiv.org/abs/2305.08834)
 
 **J. D. Tucker** and D. Yarger, "Elastic Functional Changepoint Detection", *Envirometrics*, submitted, 2022. [arxiv preprint](https://arxiv.org/abs/2211.12687)
