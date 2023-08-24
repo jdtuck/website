@@ -9,7 +9,7 @@ title: "Papers"
 COPYRIGHT NOTICE: The material listed here are copyrighted. Personal use of this material is permitted. However, permission to reprint/publish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the copyright holder.
 
 ## 2023
-J. Brown, J. P. Davis, **J. D. Tucker**, J. G. Huerta, and K. Shuler, "Quantifying uncertainty in analysis of shockless dynamic compression experiments on platinum, Part 2: Bayesian model calibration", *Journal of Applied Physics, submitted 2023.
+J. Brown, J. P. Davis, **J. D. Tucker**, J. G. Huerta, and K. Shuler, "Quantifying uncertainty in analysis of shockless dynamic compression experiments on platinum, Part 2: Bayesian model calibration", *Journal of Applied Physics*, submitted 2023.
 
 D. Yarger and **J. D. Tucker**, "Detecting changepoints in globally-indexed functional time series", *Spatial Statistics*, submitted, 2023. [arxiv preprint](https://arxiv.org/abs/2308.05915)
 
