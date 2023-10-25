@@ -17,7 +17,7 @@ Christian A. Pattyn, Alexander W. Edstrom, Andres L. Sanchez, Karl Westlake, Joh
 
 D. Francom, **J. D. Tucker**, J. G. Huerta, K. Shuler, and D. Ries, "Elastic Bayesian Model Calibration", *Arxiv*, submitted, 2023. [arxiv preprint](https://arxiv.org/abs/2305.08834)
 
-**J. D. Tucker** and D. Yarger, "Elastic Functional Changepoint Detection of Climate Impacts from Localized Sources", *Envirometrics*, in revision, 2023. [arxiv preprint](https://arxiv.org/abs/2211.12687)
+**J. D. Tucker** and D. Yarger, "Elastic Functional Changepoint Detection of Climate Impacts from Localized Sources", *Envirometrics*, 10.1002/env.2826, 2023. [PDF](Papers/Envirometics23_ElasticChangeDetection.pdf)
 
 K. Rumsey, and J. G. Huerta, and **J. D. Tucker**, "A Localized Ensemble of Approximate Gaussian Processes for Fast Sequential Emulation", *Stat*, 10.1002/sta4.576, 2023. [PDF](Papers/leapGP23.pdf)
 
