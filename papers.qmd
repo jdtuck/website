@@ -8,16 +8,17 @@ title: "Papers"
 
 COPYRIGHT NOTICE: The material listed here are copyrighted. Personal use of this material is permitted. However, permission to reprint/publish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the copyright holder.
 
-## 2023
-R. Darling, G. S. Clark, and **J. D. Tucker**, "Hidden Ancestor Graphs: Models for Detagging Property Graphs", *arXiv:2102.09581 [math.PR]*. 2023 [arxiv preprint](https://arxiv.org/abs/2102.09581)
-
+## 2024
 A. McCombs, M. A. Ausdemore, K. Goode, J. G. Huerta, K. Shuler, **J. D. Tucker**, A. Zhang, and D. Ries, “Inverse prediction of PuO2 processing conditions using Bayesian seemingly unrelated regression with functional data”, *Frontiers in Nuclear Engineering-Nuclear Materials*. submitted, 2023.
-
-J. Brown, J. P. Davis, **J. D. Tucker**, J. G. Huerta, and K. Shuler, "Quantifying uncertainty in analysis of shockless dynamic compression experiments on platinum, Part 2: Bayesian model calibration", *Journal of Applied Physics*, vol. 134, no. 23, 2023. [PDF](Papers/JAP23_calibration.pdf)
 
 D. Yarger and **J. D. Tucker**, "Detecting changepoints in globally-indexed functional time series", *Spatial Statistics*, submitted, 2023. [arxiv preprint](https://arxiv.org/abs/2308.05915)
 
 D. Francom, **J. D. Tucker**, J. G. Huerta, K. Shuler, and D. Ries, "Elastic Bayesian Model Calibration", *Arxiv*, in revision, 2023. [arxiv preprint](https://arxiv.org/abs/2305.08834)
+
+## 2023
+R. Darling, G. S. Clark, and **J. D. Tucker**, "Hidden Ancestor Graphs: Models for Detagging Property Graphs", *arXiv:2102.09581 [math.PR]*. 2023 [arxiv preprint](https://arxiv.org/abs/2102.09581)
+
+J. Brown, J. P. Davis, **J. D. Tucker**, J. G. Huerta, and K. Shuler, "Quantifying uncertainty in analysis of shockless dynamic compression experiments on platinum, Part 2: Bayesian model calibration", *Journal of Applied Physics*, vol. 134, no. 23, 2023. [PDF](Papers/JAP23_calibration.pdf)
 
 Christian A. Pattyn, Alexander W. Edstrom, Andres L. Sanchez, Karl Westlake, John D. van der Laan, **J. Derek Tucker**, Jessica Jones, Kaylin Hagopian, Joshua C. Shank, Lilian K. Casias, Jeremy B. Wright, "Event-based sensing for the detection of modulated signals in degraded visual environments", *Proc. SPIE 12514, Image Sensing Technologies: Materials, Devices, Systems, and Applications X, 1251409*, 2023. [PDF](Papers/SPIE23.pdf)
 
