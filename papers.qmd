@@ -152,7 +152,7 @@ N. Klausner, M. R. Azimi-Sadjadi, and **J. D. Tucker**, "Underwater target detec
 **J. D. Tucker**, M. R. Azimi-Sadjadi, and G. J. Dobeck, "Coherent-based method for detection of underwater objects from sonar imagery," *Proc. SPIE*, vol. 6553, pp. 65530U– 1–65520U–8, April 2007. [PDF](Papers/spie07.pdf)
 
 ## Invited Talks
-"Elasic Bayesian Model Calibration" *ASA SDNS Webinar*, December 04, 2023, [Slides](https://jdtuck.github.io/ASA_23_Calibration/index.html) 
+"Elasic Bayesian Model Calibration" *ASA SDNS Webinar*, December 04, 2023, [Slides](https://jdtuck.github.io/presentations/ASA_23_Calibration/index.html) 
 
 "Elasic Bayesian Model Calibration" *FSU Shape Group Statistical Meeting*, January 24, 2023, [Slides](https://jdtuck.github.io/presentations/FSU_Jan23/FSU_Jan23.html) 
 
