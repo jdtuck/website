@@ -9,11 +9,11 @@ title: "Papers"
 COPYRIGHT NOTICE: The material listed here are copyrighted. Personal use of this material is permitted. However, permission to reprint/publish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the copyright holder.
 
 ## 2024
-A. McCombs, M. A. Ausdemore, K. Goode, J. G. Huerta, K. Shuler, **J. D. Tucker**, A. Zhang, and D. Ries, “Inverse prediction of PuO2 processing conditions using Bayesian seemingly unrelated regression with functional data”, *Frontiers in Nuclear Engineering-Nuclear Materials*. submitted, 2023.
+A. McCombs, M. A. Ausdemore, K. Goode, J. G. Huerta, K. Shuler, **J. D. Tucker**, A. Zhang, and D. Ries, “Inverse prediction of PuO2 processing conditions using Bayesian seemingly unrelated regression with functional data”, *Frontiers in Nuclear Engineering-Nuclear Materials*. accepted, 2023.
 
 D. Yarger and **J. D. Tucker**, "Detecting changepoints in globally-indexed functional time series", *Spatial Statistics*, submitted, 2023. [arxiv preprint](https://arxiv.org/abs/2308.05915)
 
-D. Francom, **J. D. Tucker**, J. G. Huerta, K. Shuler, and D. Ries, "Elastic Bayesian Model Calibration", *Arxiv*, in revision, 2023. [arxiv preprint](https://arxiv.org/abs/2305.08834)
+D. Francom, **J. D. Tucker**, J. G. Huerta, K. Shuler, and D. Ries, "Elastic Bayesian Model Calibration", *SIAM/ASA Journal on Uncertainty Quantification*, submitted, 2023. [arxiv preprint](https://arxiv.org/abs/2305.08834)
 
 ## 2023
 R. Darling, G. S. Clark, and **J. D. Tucker**, "Hidden Ancestor Graphs: Models for Detagging Property Graphs", *arXiv:2102.09581 [math.PR]*. 2023 [arxiv preprint](https://arxiv.org/abs/2102.09581)
@@ -162,7 +162,7 @@ N. Klausner, M. R. Azimi-Sadjadi, and **J. D. Tucker**, "Underwater target detec
 
 "Elastic Functional Tolerance Bounds", *LANL Statistical Colloquium*, December 16, 2020
 
-"Elastic Functional Data Analysis", *Brigham Young University Statistics Colloquium*, December 4, 2019
+"Elastic Functional Data Analysis", *Brigham Young University Statistics Colloquium*, December 4, 2019 [Slides](https://jdtuck.github.io/presentations/FDA_Overview/FDA_Overview.html) 
 
 "Sandia Applications of Functional Data Analysis", *University of Illinois Statistics Colloquium*, November 22, 2019
 
