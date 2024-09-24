@@ -11,7 +11,7 @@ COPYRIGHT NOTICE: The material listed here are copyrighted. Personal use of this
 ## 2024
 N. Winovich, Nick, L. Moynihan, O. Abdelrahman, R. West, S. Dauphin, **J. D. Tucker**, G. Huerta, K. Potter, R. Forrest, C. Phillips, and M. Ebeida, "VoroClust: Scalable Clustering for Remote Sensing", *IEEE Transactions on Geoscience and Remote Sensing*, submitted, 2024.
 
-J.E. Borgert, J. Hannig$, **J.D. Tucker**, L. Arbeeva, A. N. Buck, Y. M. Golightly, S. P. Messier, A. E. Nelson, and J.S. Marron, "Elastic Shape Analysis of Movement Data", *JASA Case Studies and Applications*, submitted, 2024.
+J.E. Borgert, J. Hannig, **J.D. Tucker**, L. Arbeeva, A. N. Buck, Y. M. Golightly, S. P. Messier, A. E. Nelson, and J.S. Marron, "Elastic Shape Analysis of Movement Data", *JASA Case Studies and Applications*, submitted, 2024.
 
 A. Heiskala, **J. D. Tucker**, P. Choudhary, R. Nedelec, J. Ronkainen, O. Sarala, M. Järvelin, M. J. Sillanpääm, and Sylvain Sebert, "Timing based clustering of childhood BMI trajectories reveal differential maturational patterns; Study in the Northern Finland Birth Cohorts 1966 and 1986", *International Journal of Obesity*, in revision, 2024.
 
