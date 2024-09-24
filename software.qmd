@@ -24,3 +24,8 @@ Documentation for the Python (Documentation: [HTML](https://fdasrsf-python.readt
 I'm the lead author of the `stpphawkes` R package ([CRAN](https://cran.r-project.org/web/packages/stpphawkes/index.html);[GitHub](https://github.com/sandialabs/stpphawkes)).
 
 A R package for modeling of spatio-temporal and temporal point process using a Hawkes model accounting for missing data from the paper J. D. Tucker, L. Shand, and J. R. Lewis, "Handling Missing Data in Self-Exciting Point Process Models," Spatial Statistics, vol. 29. pp. 160-176, 2019. [PDF](Papers/SPATSTAT18_STPP.pdf)
+
+## `veesa`
+I'm a devloper of the `veesa` R package ([GitHub](https://github.com/sandialabs/veesa)).
+
+A R package for VEESA Pipeline for Explainable Machine Learning with Functional Data
