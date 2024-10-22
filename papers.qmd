@@ -183,7 +183,9 @@ N. Klausner, M. R. Azimi-Sadjadi, and **J. D. Tucker**, "Underwater target detec
 "Statistical Analysis and Modeling of Elastic Functions'', *Department of Mathematical and Statistical Sciences, University of Alberta*, Aug 23, 2011. (Organizer: Yau Shu Wong) [Slides](Presentations/UA-Function_Warping.pdf)
 
 ## Patents
-"Method and system for training an artifical neural network utilizing physics based knowledge" US Patent No. Applied
+"Density-Based clustering of multidimensional Data" US Patent No. Applied
+
+"Method and system for training an artificial neural network utilizing physics based knowledge" US Patent No. Applied
 
 "Automated Change Detection Technique for Synthetic Aperture Sonar" US Patent No. US10049295B2 [PDF](Papers/US10049295.pdf)
 
