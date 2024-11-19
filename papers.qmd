@@ -9,11 +9,17 @@ title: "Papers"
 COPYRIGHT NOTICE: The material listed here are copyrighted. Personal use of this material is permitted. However, permission to reprint/publish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the copyright holder.
 
 ## 2024
-A. McCombs, M. A. Ausdemore, K. Goode, J. G. Huerta, K. Shuler, **J. D. Tucker**, A. Zhang, and D. Ries, “Inverse prediction of PuO2 processing conditions using Bayesian seemingly unrelated regression with functional data”, *Frontiers in Nuclear Engineering-Nuclear Materials*. submitted, 2023.
+N. Winovich, Nick, L. Moynihan, O. Abdelrahman, R. West, S. Dauphin, **J. D. Tucker**, G. Huerta, K. Potter, R. Forrest, C. Phillips, and M. Ebeida, "VoroClust: Scalable Clustering for Remote Sensing", *IEEE Transactions on Geoscience and Remote Sensing*, submitted, 2024.
 
-D. Yarger and **J. D. Tucker**, "Detecting changepoints in globally-indexed functional time series", *Spatial Statistics*, submitted, 2023. [arxiv preprint](https://arxiv.org/abs/2308.05915)
+J.E. Borgert, J. Hannig, **J.D. Tucker**, L. Arbeeva, A. N. Buck, Y. M. Golightly, S. P. Messier, A. E. Nelson, and J.S. Marron, "Elastic Shape Analysis of Movement Data", *JASA Case Studies and Applications*, submitted, 2024. [arxiv preprint](https://arxiv.org/abs/2409.13938)
 
-D. Francom, **J. D. Tucker**, J. G. Huerta, K. Shuler, and D. Ries, "Elastic Bayesian Model Calibration", *Arxiv*, in revision, 2023. [arxiv preprint](https://arxiv.org/abs/2305.08834)
+A. Heiskala, **J. D. Tucker**, P. Choudhary, R. Nedelec, J. Ronkainen, O. Sarala, M. Järvelin, M. J. Sillanpääm, and Sylvain Sebert, "Timing based clustering of childhood BMI trajectories reveal differential maturational patterns; Study in the Northern Finland Birth Cohorts 1966 and 1986", *International Journal of Obesity*, in revision, 2024.
+
+A. McCombs, M. A. Ausdemore, K. Goode, J. G. Huerta, K. Shuler, **J. D. Tucker**, A. Zhang, and D. Ries, “Inverse prediction of PuO2 processing conditions using Bayesian seemingly unrelated regression with functional data”, *Frontiers in Nuclear Engineering-Nuclear Materials*. 10.3389/fnuen.2024.1331349, 2024. [PDF](Papers/SUR24FNE.pdf)
+
+D. Yarger and **J. D. Tucker**, "Detecting changepoints in globally-indexed functional time series", *Spatial Statistics*, in revision, 2024. [arxiv preprint](https://arxiv.org/abs/2308.05915)
+
+D. Francom, **J. D. Tucker**, J. G. Huerta, K. Shuler, and D. Ries, "Elastic Bayesian Model Calibration", *SIAM/ASA Journal on Uncertainty Quantification*, accepted, 2024. [arxiv preprint](https://arxiv.org/abs/2305.08834)
 
 ## 2023
 R. Darling, G. S. Clark, and **J. D. Tucker**, "Hidden Ancestor Graphs: Models for Detagging Property Graphs", *arXiv:2102.09581 [math.PR]*. 2023 [arxiv preprint](https://arxiv.org/abs/2102.09581)
@@ -164,7 +170,7 @@ N. Klausner, M. R. Azimi-Sadjadi, and **J. D. Tucker**, "Underwater target detec
 
 "Elastic Functional Tolerance Bounds", *LANL Statistical Colloquium*, December 16, 2020
 
-"Elastic Functional Data Analysis", *Brigham Young University Statistics Colloquium*, December 4, 2019
+"Elastic Functional Data Analysis", *Brigham Young University Statistics Colloquium*, December 4, 2019 [Slides](https://jdtuck.github.io/presentations/FDA_Overview/FDA_Overview.html) 
 
 "Sandia Applications of Functional Data Analysis", *University of Illinois Statistics Colloquium*, November 22, 2019
 
@@ -179,7 +185,9 @@ N. Klausner, M. R. Azimi-Sadjadi, and **J. D. Tucker**, "Underwater target detec
 "Statistical Analysis and Modeling of Elastic Functions'', *Department of Mathematical and Statistical Sciences, University of Alberta*, Aug 23, 2011. (Organizer: Yau Shu Wong) [Slides](Presentations/UA-Function_Warping.pdf)
 
 ## Patents
-"Method and system for training an artifical neural network utilizing physics based knowledge" US Patent No. Applied
+"Density-Based clustering of multidimensional Data" US Patent No. Applied
+
+"Method and system for training an artificial neural network utilizing physics based knowledge" US Patent No. Applied
 
 "Automated Change Detection Technique for Synthetic Aperture Sonar" US Patent No. US10049295B2 [PDF](Papers/US10049295.pdf)
 
