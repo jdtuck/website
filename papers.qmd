@@ -8,6 +8,8 @@ title: "Papers"
 
 COPYRIGHT NOTICE: The material listed here are copyrighted. Personal use of this material is permitted. However, permission to reprint/publish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the copyright holder.
 
+## 2025
+
 ## 2024
 K. Goode, **J. D. Tucker**, D. Ries, and H. Hoffman, "An Explainable Pipeline for Machine Learning with Functional Data", *Annals of Applied Statistics*, submitted, 2024.
 
@@ -18,8 +20,6 @@ J.E. Borgert, J. Hannig, **J.D. Tucker**, L. Arbeeva, A. N. Buck, Y. M. Golightl
 A. Heiskala, **J. D. Tucker**, P. Choudhary, R. Nedelec, J. Ronkainen, O. Sarala, M. Järvelin, M. J. Sillanpääm, and Sylvain Sebert, "Timing based clustering of childhood BMI trajectories reveal differential maturational patterns; Study in the Northern Finland Birth Cohorts 1966 and 1986", *International Journal of Obesity*, accepted, 2024.
 
 A. McCombs, M. A. Ausdemore, K. Goode, J. G. Huerta, K. Shuler, **J. D. Tucker**, A. Zhang, and D. Ries, “Inverse prediction of PuO2 processing conditions using Bayesian seemingly unrelated regression with functional data”, *Frontiers in Nuclear Engineering-Nuclear Materials*. 10.3389/fnuen.2024.1331349, 2024. [PDF](Papers/SUR24FNE.pdf)
-
-D. Yarger and **J. D. Tucker**, "Detecting changepoints in globally-indexed functional time series", *Spatial Statistics*, in revision, 2024. [arxiv preprint](https://arxiv.org/abs/2308.05915)
 
 D. Francom, **J. D. Tucker**, J. G. Huerta, K. Shuler, and D. Ries, "Elastic Bayesian Model Calibration", *SIAM/ASA Journal on Uncertainty Quantification*, accepted, 2024. [arxiv preprint](https://arxiv.org/abs/2305.08834)
 
