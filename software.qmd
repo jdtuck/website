@@ -28,4 +28,5 @@ A R package for modeling of spatio-temporal and temporal point process using a H
 ## `veesa`
 I'm a devloper of the `veesa` R package ([GitHub](https://github.com/sandialabs/veesa)).
 
-A R package for VEESA Pipeline for Explainable Machine Learning with Functional Data
+A R package for VEESA Pipeline for Explainable Machine Learning with Functional Data frin oaoer K. Goode, J. D. Tucker, D. Ries, and H. Hoffman, "An Explainable Pipeline for Machine Learning with Functional Data", *Annals of Applied Statistics*, submitted, 2024.
+
