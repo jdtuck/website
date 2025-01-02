@@ -13,7 +13,7 @@ COPYRIGHT NOTICE: The material listed here are copyrighted. Personal use of this
 ## 2024
 K. Goode, **J. D. Tucker**, D. Ries, and H. Hoffman, "An Explainable Pipeline for Machine Learning with Functional Data", *Annals of Applied Statistics*, submitted, 2024.
 
-N. Winovich, Nick, L. Moynihan, O. Abdelrahman, R. West, S. Dauphin, **J. D. Tucker**, G. Huerta, K. Potter, R. Forrest, C. Phillips, and M. Ebeida, "VoroClust: Scalable Clustering for Remote Sensing", *IEEE Transactions on Geoscience and Remote Sensing*, submitted, 2024.
+N. Winovich, L. Moynihan, O. Abdelrahman, R. West, S. Dauphin, **J. D. Tucker**, G. Huerta, K. Potter, R. Forrest, C. Phillips, and M. Ebeida, "VoroClust: Scalable Clustering for Remote Sensing", *IEEE Transactions on Geoscience and Remote Sensing*, submitted, 2024.
 
 J. E. Borgert, J. Hannig, **J. D. Tucker**, L. Arbeeva, A. N. Buck, Y. M. Golightly, S. P. Messier, A. E. Nelson, and J. S. Marron, "Elastic Shape Analysis of Movement Data", *JASA Case Studies and Applications*, submitted, 2024. [arxiv preprint](https://arxiv.org/abs/2409.13938)
 
