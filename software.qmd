@@ -26,7 +26,7 @@ I'm the lead author of the `stpphawkes` R package ([CRAN](https://cran.r-project
 A R package for modeling of spatio-temporal and temporal point process using a Hawkes model accounting for missing data from the paper J. D. Tucker, L. Shand, and J. R. Lewis, "Handling Missing Data in Self-Exciting Point Process Models," Spatial Statistics, vol. 29. pp. 160-176, 2019. [PDF](Papers/SPATSTAT18_STPP.pdf)
 
 ## `veesa`
-I'm a devloper of the `veesa` R package ([GitHub](https://github.com/sandialabs/veesa)).
+I'm a devloper of the `veesa` R package ([CRAN](https://cran.r-project.org/web/packages/veesa/index.html);[GitHub](https://github.com/sandialabs/veesa)).
 
-A R package for VEESA Pipeline for Explainable Machine Learning with Functional Data frin oaoer K. Goode, J. D. Tucker, D. Ries, and H. Hoffman, "An Explainable Pipeline for Machine Learning with Functional Data", *Annals of Applied Statistics*, submitted, 2024.
+A R package for VEESA Pipeline for Explainable Machine Learning with Functional Data frin oaoer K. Goode, J. D. Tucker, D. Ries, and H. Hoffman, "An Explainable Pipeline for Machine Learning with Functional Data", *Annals of Applied Statistics*, submitted, 2025.
 
