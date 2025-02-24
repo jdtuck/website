@@ -188,7 +188,7 @@ N. Klausner, M. R. Azimi-Sadjadi, and **J. D. Tucker**, "Underwater target detec
 ## Patents
 "Density-Based clustering of multidimensional Data" US Patent No. Applied
 
-"Method and system for training an artificial neural network utilizing physics based knowledge" US Patent No. Applied
+"Method and system for training an artificial neural network utilizing physics based knowledge" US Patent No. US12229934 [PDF](Papers/US12229934.pdf)
 
 "Automated Change Detection Technique for Synthetic Aperture Sonar" US Patent No. US10049295B2 [PDF](Papers/US10049295.pdf)
 
