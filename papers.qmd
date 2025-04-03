@@ -9,6 +9,8 @@ title: "Papers"
 COPYRIGHT NOTICE: The material listed here are copyrighted. Personal use of this material is permitted. However, permission to reprint/publish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the copyright holder.
 
 ## 2025
+J. Adams, B. Berman, J. Michalenko, **J. D. Tucker**, *arXiv:2504.01172*, submitted, 2025. [arxiv preprint](https://arxiv.org/abs/2504.01172)
+
 K. Goode, **J. D. Tucker**, D. Ries, and H. Hoffman, "An Explainable Pipeline for Machine Learning with Functional Data", *Computational Statistics and Data Analysis*, submitted, 2025. [arxiv preprint](https://arxiv.org/abs/2501.07602)
 
 N. Winovich, L. Moynihan, O. Abdelrahman, R. West, S. Dauphin, **J. D. Tucker**, G. Huerta, K. Potter, R. Forrest, C. Phillips, and M. Ebeida, "VoroClust: Scalable Clustering for Remote Sensing", *IEEE Transactions on Geoscience and Remote Sensing*, in revision, 2024.
