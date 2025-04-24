@@ -30,3 +30,8 @@ I'm a devloper of the `veesa` R package ([CRAN](https://cran.r-project.org/web/p
 
 A R package for VEESA Pipeline for Explainable Machine Learning with Functional Data frin oaoer K. Goode, J. D. Tucker, D. Ries, and H. Hoffman, "An Explainable Pipeline for Machine Learning with Functional Data", *Annals of Applied Statistics*, submitted, 2025.
 
+## `impala`
+I'm a devloper of the `impala` R package ([GitHub](https://github.com/sandialabs/rImpala)).
+
+R library for modular Bayesian model calibration. Posterior exploration includes tempering and adaptive MCMC. This is an R tranlastion of the python library [impala](https://github.com/lanl/impala) by LANL
+
