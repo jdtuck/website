@@ -35,3 +35,8 @@ I'm a devloper of the `impala` R package ([GitHub](https://github.com/sandialabs
 
 R library for modular Bayesian model calibration. Posterior exploration includes tempering and adaptive MCMC. This is an R tranlastion of the python library [impala](https://github.com/lanl/impala) by LANL
 
+## `mvBayes`
+I'm a developer of the `mvBayes` R and and Python Package ([Github - R](https://github.com/sandialabs/mvBayesR);[Github - Python](https://github.com/sandialabs/mvBayesPy))
+
+Implementation of the multivariate Bayesian regression (mvBayes) framework. Decomposes a multivariate/functional response using a user-specified orthogonal basis decomposition, and then models each basis component independently using an arbitrary user-specified (univariate) Bayesian regression model. Includes prediction and plotting methods.
+
