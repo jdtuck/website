@@ -15,7 +15,7 @@ N. Winovich, L. Moynihan, O. Abdelrahman, R. West, S. Dauphin, **J. D. Tucker**,
 
 J. Adams, B. Berman, J. Michalenko, **J. D. Tucker**, "Conformal Anomaly Detection for Functional Data with Elastic Distance Metrics", *arXiv:2504.01172*, 2025. [arxiv preprint](https://arxiv.org/abs/2504.01172)
 
-J. E. Borgert, J. Hannig, **J. D. Tucker**, L. Arbeeva, A. N. Buck, Y. M. Golightly, S. P. Messier, A. E. Nelson, and J. S. Marron, "Elastic Shape Analysis of Movement Data", *JASA Case Studies and Applications*, accepted, 2025. [arxiv preprint](https://arxiv.org/abs/2409.13938)
+J. E. Borgert, J. Hannig, **J. D. Tucker**, L. Arbeeva, A. N. Buck, Y. M. Golightly, S. P. Messier, A. E. Nelson, and J. S. Marron, "Elastic Shape Analysis of Movement Data", *JASA Case Studies and Applications*, 10.1080/01621459.2025.2572778, 2025. [PDF](Papers/JASA25_Borgert.pdf)
 
 ## 2024
 A. Heiskala, **J. D. Tucker**, P. Choudhary, R. Nedelec, J. Ronkainen, O. Sarala, M. Järvelin, M. J. Sillanpääm, and S. Sebert, "Timing based clustering of childhood BMI trajectories reveal differential maturational patterns; Study in the Northern Finland Birth Cohorts 1966 and 1986", *International Journal of Obesity*, 10.1038/s41366-025-01714-8, 2024. [PDF](Papers/Heiskala_et_al-2025-International_Journal_of_Obesity.pdf)
