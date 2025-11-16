@@ -9,6 +9,8 @@ title: "Papers"
 COPYRIGHT NOTICE: The material listed here are copyrighted. Personal use of this material is permitted. However, permission to reprint/publish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the copyright holder.
 
 ## 2025
+K. Rumsey, D. Francom, G. Gibson, **J. D. Tucker**, and G. Huerta. Bayesian adaptive polynomial chaos expansions. *Stat*, accepted, 2025.
+
 K. Goode, **J. D. Tucker**, D. Ries, and H. Hoffman, "An Explainable Pipeline for Machine Learning with Functional Data", *Journal of Data Science*, in revision, 2025. [arxiv preprint](https://arxiv.org/abs/2501.07602)
 
 N. Winovich, L. Moynihan, O. Abdelrahman, R. West, S. Dauphin, **J. D. Tucker**, G. Huerta, K. Potter, R. Forrest, C. Phillips, and M. Ebeida, "VoroClust: Scalable Clustering for Remote Sensing", *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, submitted, 2024.
