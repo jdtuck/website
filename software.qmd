@@ -40,3 +40,13 @@ I'm a developer of the `mvBayes` R and and Python Package ([Github - R](https://
 
 Implementation of the multivariate Bayesian regression (mvBayes) framework. Decomposes a multivariate/functional response using a user-specified orthogonal basis decomposition, and then models each basis component independently using an arbitrary user-specified (univariate) Bayesian regression model. Includes prediction and plotting methods.
 
+## `BASS`
+I'm a developer of the `BASS` MATLAB Package ([Github](https://github.com/sandialabs/bass_matlab))
+
+Implementation of Bayesian Adaptive Spline Surfaces in MATLAB. This is a MATLAB translation of the python library [pyBASS](https://github.com/lanl/pyBASS)
+
+
+## `BayesPPR`
+I'm a developer of the `BayesPPR` MATLAB Package ([Github](https://github.com/sandialabs/bayesppr_matlab))
+
+A MATLAB implementation of Bayesian Projection Pursuit Regression (BayesPPR). This is a MATLAB translation of the python library [pyBayesPPR](https://github.com/gqcollins/pyBayesPPR)
