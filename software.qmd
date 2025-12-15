@@ -36,7 +36,7 @@ I'm a devloper of the `impala` R package ([GitHub](https://github.com/sandialabs
 R library for modular Bayesian model calibration. Posterior exploration includes tempering and adaptive MCMC. This is an R tranlastion of the python library [impala](https://github.com/lanl/impala) by LANL
 
 ## `mvBayes`
-I'm a developer of the `mvBayes` R and and Python Package ([Github - R](https://github.com/sandialabs/mvBayesR);[Github - Python](https://github.com/sandialabs/mvBayesPy))
+I'm a developer of the `mvBayes` R, Python, and MATLAB Package ([Github - R](https://github.com/sandialabs/mvBayesR);[Github - Python](https://github.com/sandialabs/mvBayesPy);[Github - MATLAB](https://github.com/sandialabs/mvBayes_matlab))
 
 Implementation of the multivariate Bayesian regression (mvBayes) framework. Decomposes a multivariate/functional response using a user-specified orthogonal basis decomposition, and then models each basis component independently using an arbitrary user-specified (univariate) Bayesian regression model. Includes prediction and plotting methods.
 
@@ -44,7 +44,6 @@ Implementation of the multivariate Bayesian regression (mvBayes) framework. Deco
 I'm a developer of the `BASS` MATLAB Package ([Github](https://github.com/sandialabs/bass_matlab))
 
 Implementation of Bayesian Adaptive Spline Surfaces in MATLAB. This is a MATLAB translation of the python library [pyBASS](https://github.com/lanl/pyBASS)
-
 
 ## `BayesPPR`
 I'm a developer of the `BayesPPR` MATLAB Package ([Github](https://github.com/sandialabs/bayesppr_matlab))
