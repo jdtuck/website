@@ -11,7 +11,7 @@ COPYRIGHT NOTICE: The material listed here are copyrighted. Personal use of this
 ## 2026
 N. Winovich, L. Moynihan, O. Abdelrahman, R. West, S. Dauphin, **J. D. Tucker**, G. Huerta, K. Potter, R. Forrest, C. Phillips, and M. Ebeida, "VoroClust: Scalable Clustering for Remote Sensing", *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, in revision, 2026.
 
-K. Rumsey, D. Francom, G. Gibson, **J. D. Tucker**, and G. Huerta. Bayesian adaptive polynomial chaos expansions. *Stat*, 10.1002/sta4.70151, 2026. [PDF](Papers/Rumsey_Stat_26.pdf)
+K. Rumsey, D. Francom, G. Gibson, **J. D. Tucker**, and G. Huerta. "Bayesian adaptive polynomial chaos expansions". *Stat*, 10.1002/sta4.70151, 2026. [PDF](Papers/Rumsey_Stat_26.pdf)
 
 ## 2025
 K. Goode, **J. D. Tucker**, D. Ries, and H. Hoffman, "An Explainable Pipeline for Machine Learning with Functional Data", *Journal of Data Science*, 10.6339/25-JDS1212, 2025. [PDF](Papers/jds1212.pdf)
