@@ -9,7 +9,7 @@ title: "Papers"
 COPYRIGHT NOTICE: The material listed here are copyrighted. Personal use of this material is permitted. However, permission to reprint/publish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the copyright holder.
 
 ## 2026
-N. Winovich, L. Moynihan, O. Abdelrahman, R. West, S. Dauphin, **J. D. Tucker**, G. Huerta, K. Potter, R. Forrest, C. Phillips, and M. Ebeida, "VoroClust: Scalable Clustering for Remote Sensing", *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, accepted, 2026.
+N. Winovich, L. Moynihan, O. Abdelrahman, R. West, S. Dauphin, **J. D. Tucker**, G. Huerta, K. Potter, R. Forrest, C. Phillips, and M. Ebeida, "VoroClust: Scalable Clustering for Remote Sensing", *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 10.1109/JSTARS.2026.3686609, 2026. [PDF](Papers/Winovich_JSTARS_26.pdf)
 
 K. Rumsey, D. Francom, G. Gibson, **J. D. Tucker**, and G. Huerta. "Bayesian adaptive polynomial chaos expansions". *Stat*, 10.1002/sta4.70151, 2026. [PDF](Papers/Rumsey_Stat_26.pdf)
 
