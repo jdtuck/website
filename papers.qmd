@@ -11,10 +11,13 @@ COPYRIGHT NOTICE: The material listed here are copyrighted. Personal use of this
 ## 2026
 N. Winovich, L. Moynihan, O. Abdelrahman, R. West, S. Dauphin, **J. D. Tucker**, G. Huerta, K. Potter, R. Forrest, C. Phillips, and M. Ebeida, "VoroClust: Scalable Clustering for Remote Sensing", *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 10.1109/JSTARS.2026.3686609, 2026. [PDF](Papers/Winovich_JSTARS_26.pdf)
 
-K. Rumsey, D. Francom, G. Gibson, **J. D. Tucker**, and G. Huerta. "Bayesian adaptive polynomial chaos expansions". *Stat*, 10.1002/sta4.70151, 2026. [PDF](Papers/Rumsey_Stat_26.pdf)
+K. Rumsey, D. Francom, G. Gibson, **J. D. Tucker**, and G. Huerta. "Bayesian adaptive polynomial chaos expansions". *Stat*, 10.1002/sta4.70151, 2026. [[PDF](Papers/Rumsey_Stat_26.pdf)
+| [R](https://github.com/knrumsey/khaos)]
 
 ## 2025
-K. Goode, **J. D. Tucker**, D. Ries, and H. Hoffman, "An Explainable Pipeline for Machine Learning with Functional Data", *Journal of Data Science*, 10.6339/25-JDS1212, 2025. [PDF](Papers/jds1212.pdf)
+K. Goode, **J. D. Tucker**, D. Ries, and H. Hoffman, "An Explainable Pipeline for Machine Learning with Functional Data", *Journal of Data Science*, 10.6339/25-JDS1212, 2025. [[PDF](Papers/jds1212.pdf)
+| [CRAN](https://cran.r-project.org/web/packages/veesa/index.html)
+| [GitHub](https://github.com/sandialabs/veesa)]
 
 J. Adams, B. Berman, J. Michalenko, **J. D. Tucker**, "Conformal Anomaly Detection for Functional Data with Elastic Distance Metrics", *arXiv:2504.01172*, 2025. [arxiv preprint](https://arxiv.org/abs/2504.01172)
 
@@ -25,12 +28,14 @@ A. Heiskala, **J. D. Tucker**, P. Choudhary, R. Nedelec, J. Ronkainen, O. Sarala
 
 A. McCombs, M. A. Ausdemore, K. Goode, J. G. Huerta, K. Shuler, **J. D. Tucker**, A. Zhang, and D. Ries, “Inverse prediction of PuO2 processing conditions using Bayesian seemingly unrelated regression with functional data”, *Frontiers in Nuclear Engineering-Nuclear Materials*. 10.3389/fnuen.2024.1331349, 2024. [PDF](Papers/SUR24FNE.pdf)
 
-D. Francom, **J. D. Tucker**, J. G. Huerta, K. Shuler, and D. Ries, "Elastic Bayesian Model Calibration", *SIAM/ASA Journal on Uncertainty Quantification*, vol. 13, no. 1, 2025. [PDF](Papers/Francom-2025-Calibration-JUQ.pdf)
+D. Francom, **J. D. Tucker**, J. G. Huerta, K. Shuler, and D. Ries, "Elastic Bayesian Model Calibration", *SIAM/ASA Journal on Uncertainty Quantification*, vol. 13, no. 1, 2025. [[PDF](Papers/Francom-2025-Calibration-JUQ.pdf)
+| [Code](https://github.com/sandialabs/efbmc)]
 
 ## 2023
-R. Darling, G. S. Clark, and **J. D. Tucker**, "Hidden Ancestor Graphs: Models for Detagging Property Graphs", *arXiv:2102.09581 [math.PR]*. 2023 [arxiv preprint](https://arxiv.org/abs/2102.09581)
+R. Darling, G. S. Clark, and **J. D. Tucker**, "Hidden Ancestor Graphs: Models for Detagging Property Graphs", *arXiv:2102.09581 [math.PR]*. 2023 | [arxiv preprint](https://arxiv.org/abs/2102.09581)
 
-J. Brown, J. P. Davis, **J. D. Tucker**, J. G. Huerta, and K. Shuler, "Quantifying uncertainty in analysis of shockless dynamic compression experiments on platinum, Part 2: Bayesian model calibration", *Journal of Applied Physics*, vol. 134, no. 23, 2023. [PDF](Papers/JAP23_calibration.pdf)
+J. Brown, J. P. Davis, **J. D. Tucker**, J. G. Huerta, and K. Shuler, "Quantifying uncertainty in analysis of shockless dynamic compression experiments on platinum, Part 2: Bayesian model calibration", *Journal of Applied Physics*, vol. 134, no. 23, 2023. [[PDF](Papers/JAP23_calibration.pdf)
+| [Code](https://github.com/sandialabs/efbmc)]
 
 Christian A. Pattyn, Alexander W. Edstrom, Andres L. Sanchez, Karl Westlake, John D. van der Laan, **J. Derek Tucker**, Jessica Jones, Kaylin Hagopian, Joshua C. Shank, Lilian K. Casias, Jeremy B. Wright, "Event-based sensing for the detection of modulated signals in degraded visual environments", *Proc. SPIE 12514, Image Sensing Technologies: Materials, Devices, Systems, and Applications X, 1251409*, 2023. [PDF](Papers/SPIE23.pdf)
 

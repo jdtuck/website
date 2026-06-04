@@ -28,10 +28,10 @@ A R package for modeling of spatio-temporal and temporal point process using a H
 ## `veesa`
 I'm a devloper of the `veesa` R package ([CRAN](https://cran.r-project.org/web/packages/veesa/index.html);[GitHub](https://github.com/sandialabs/veesa)).
 
-A R package for VEESA Pipeline for Explainable Machine Learning with Functional Data frin oaoer K. Goode, J. D. Tucker, D. Ries, and H. Hoffman, "An Explainable Pipeline for Machine Learning with Functional Data", *Annals of Applied Statistics*, submitted, 2025.
+A R package for VEESA Pipeline for Explainable Machine Learning with Functional Data from the paper K. Goode, J. D. Tucker, D. Ries, and H. Hoffman, "An Explainable Pipeline for Machine Learning with Functional Data", *Annals of Applied Statistics*, submitted, 2025.
 
 ## `impala`
-I'm a devloper of the `impala` R and MATLAB package ([GitHub - R](https://github.com/sandialabs/rImpala);[Github - MATLAB](https://github.com/sandialabs/impala_matlab)).
+I'm a developer of the `impala` R and MATLAB package ([GitHub - R](https://github.com/sandialabs/rImpala);[Github - MATLAB](https://github.com/sandialabs/impala_matlab)).
 
 R and MATLAB library for modular Bayesian model calibration. Posterior exploration includes tempering and adaptive MCMC. This is an tranlastion of the python library [impala](https://github.com/lanl/impala) by LANL
 
@@ -49,3 +49,8 @@ Implementation of Bayesian Adaptive Spline Surfaces in MATLAB. This is a MATLAB 
 I'm a developer of the `BayesPPR` MATLAB Package ([Github](https://github.com/sandialabs/bayesppr_matlab))
 
 A MATLAB implementation of Bayesian Projection Pursuit Regression (BayesPPR). This is a MATLAB translation of the python library [pyBayesPPR](https://github.com/gqcollins/pyBayesPPR)
+
+## `EFBMC`
+I'm a developer of the `EFBMC` Scripts ([Github](https://github.com/sandialabs/efbmc)
+
+A set of MATLAB, R, and Python notebooks that implement the Elastic Functional Bayesian Model Calibration from the paper D. Francom, **J. D. Tucker**, J. G. Huerta, K. Shuler, and D. Ries, "Elastic Bayesian Model Calibration", *SIAM/ASA Journal on Uncertainty Quantification*, vol. 13, no. 1, 2025. [PDF](Papers/Francom-2025-Calibration-JUQ.pdf)
