@@ -51,6 +51,6 @@ I'm a developer of the `BayesPPR` MATLAB Package ([Github](https://github.com/sa
 A MATLAB implementation of Bayesian Projection Pursuit Regression (BayesPPR). This is a MATLAB translation of the python library [pyBayesPPR](https://github.com/gqcollins/pyBayesPPR)
 
 ## `EFBMC`
-I'm a developer of the `EFBMC` Scripts ([Github](https://github.com/sandialabs/efbmc)
+I'm a developer of the `EFBMC` Scripts ([Github](https://github.com/sandialabs/efbmc))
 
 A set of MATLAB, R, and Python notebooks that implement the Elastic Functional Bayesian Model Calibration from the paper D. Francom, **J. D. Tucker**, J. G. Huerta, K. Shuler, and D. Ries, "Elastic Bayesian Model Calibration", *SIAM/ASA Journal on Uncertainty Quantification*, vol. 13, no. 1, 2025. [PDF](Papers/Francom-2025-Calibration-JUQ.pdf)
