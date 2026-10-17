@@ -5,52 +5,52 @@ title: "Software"
 ## `fdasrvf`
 I'm lead author of the `fdasrvf` R package ([CRAN](https://cran.r-project.org/web/packages/fdasrvf/index.html); [GitHub](https://github.com/jdtuck/fdasrvf_R)). 
 
-This package performs alignment, PCA, and modeling of multidimensional and unidimensional functions using the square-root velocity framework (Srivastava et al., 2011 [arXiv:1103.3817](https://arxiv.org/abs/1103.3817) and Tucker et al., 2013 [doi:10.1016/j.csda.2012.12.001](Papers/CSDA_PCA_12.pdf)). This framework allows for elastic analysis of functional data through phase and amplitude separation. Multiple papers utilize the work in this package and is listed in the [CRAN Functional Data Analysis Task View](https://cran.r-project.org/web/views/FunctionalData.html). See the package README for all the methods it implements and reference papers.
+This package performs alignment, PCA, and modeling of multidimensional and unidimensional functions using the square-root velocity framework (Srivastava et al., 2011 [arXiv:1103.3817](https://arxiv.org/abs/1103.3817) and Tucker et al., 2013 [doi:10.1016/j.csda.2012.12.001](Papers/CSDA_PCA_12.pdf)). This framework allows for elastic analysis of functional data through phase and amplitude separation. Multiple papers use the work in this package, and it is listed in the [CRAN Functional Data Analysis Task View](https://cran.r-project.org/web/views/FunctionalData.html). See the package README for all the methods it implements and reference papers.
 
-There are also version of this code for [MATLAB](https://github.com/jdtuck/fdasrvf_MATLAB), and [Julia](https://github.com/jdtuck/ElasticFDA.jl)
+There are also versions of this code for [MATLAB](https://github.com/jdtuck/fdasrvf_MATLAB) and [Julia](https://github.com/jdtuck/ElasticFDA.jl).
 
-Documentation for the Julia (Documentation: [HTML](http://elasticfdajl.readthedocs.org/en/latest/))
+Documentation for the Julia version: [HTML](http://elasticfdajl.readthedocs.org/en/latest/)
 
 ## `fdasrsf`
-I'm lead author of the `fdasrsf` python package ([PYPI](https://cran.r-project.org/web/packages/fdasrvf/index.html);
+I'm lead author of the `fdasrsf` Python package ([PyPI](https://pypi.org/project/fdasrsf/);
 [Conda](https://anaconda.org/conda-forge/fdasrsf);
 [GitHub](https://github.com/jdtuck/fdasrsf_python)). 
 
-This package performs alignment, PCA, and modeling of multidimensional and unidimensional functions using the square-root velocity framework (Srivastava et al., 2011 [arXiv:1103.3817](https://arxiv.org/abs/1103.3817) and Tucker et al., 2013 [doi:10.1016/j.csda.2012.12.001](Papers/CSDA_PCA_12.pdf)). This framework allows for elastic analysis of functional data through phase and amplitude separation. Multiple papers utilize the work in this work and listed in the documentation. See the package README for all the methods it implements and reference papers.
+This package performs alignment, PCA, and modeling of multidimensional and unidimensional functions using the square-root velocity framework (Srivastava et al., 2011 [arXiv:1103.3817](https://arxiv.org/abs/1103.3817) and Tucker et al., 2013 [doi:10.1016/j.csda.2012.12.001](Papers/CSDA_PCA_12.pdf)). This framework allows for elastic analysis of functional data through phase and amplitude separation. Multiple papers use the work in this package and are listed in the documentation. See the package README for all the methods it implements and reference papers.
 
-Documentation for the Python (Documentation: [HTML](https://fdasrsf-python.readthedocs.io/en/latest/?badge=latest))
+Documentation for the Python version: [HTML](https://fdasrsf-python.readthedocs.io/en/latest/?badge=latest)
 
 ## `stpphawkes`
 I'm the lead author of the `stpphawkes` R package ([CRAN](https://cran.r-project.org/web/packages/stpphawkes/index.html);[GitHub](https://github.com/sandialabs/stpphawkes)).
 
-A R package for modeling of spatio-temporal and temporal point process using a Hawkes model accounting for missing data from the paper J. D. Tucker, L. Shand, and J. R. Lewis, "Handling Missing Data in Self-Exciting Point Process Models," Spatial Statistics, vol. 29. pp. 160-176, 2019. [PDF](Papers/SPATSTAT18_STPP.pdf)
+An R package for modeling spatio-temporal and temporal point processes using a Hawkes model accounting for missing data from the paper J. D. Tucker, L. Shand, and J. R. Lewis, "Handling Missing Data in Self-Exciting Point Process Models," Spatial Statistics, vol. 29. pp. 160-176, 2019. [PDF](Papers/SPATSTAT18_STPP.pdf)
 
 ## `veesa`
-I'm a devloper of the `veesa` R package ([CRAN](https://cran.r-project.org/web/packages/veesa/index.html);[GitHub](https://github.com/sandialabs/veesa)).
+I'm a developer of the `veesa` R package ([CRAN](https://cran.r-project.org/web/packages/veesa/index.html);[GitHub](https://github.com/sandialabs/veesa)).
 
-A R package for VEESA Pipeline for Explainable Machine Learning with Functional Data from the paper K. Goode, J. D. Tucker, D. Ries, and H. Hoffman, "An Explainable Pipeline for Machine Learning with Functional Data", *Annals of Applied Statistics*, submitted, 2025.
+An R package for the VEESA pipeline for Explainable Machine Learning with Functional Data from the paper K. Goode, J. D. Tucker, D. Ries, and H. Hoffman, "An Explainable Pipeline for Machine Learning with Functional Data", *Journal of Data Science*, 2025.
 
 ## `impala`
-I'm a developer of the `impala` R and MATLAB package ([GitHub - R](https://github.com/sandialabs/rImpala);[Github - MATLAB](https://github.com/sandialabs/impala_matlab)).
+I'm a developer of the `impala` R and MATLAB packages ([GitHub - R](https://github.com/sandialabs/rImpala);[GitHub - MATLAB](https://github.com/sandialabs/impala_matlab)).
 
-R and MATLAB library for modular Bayesian model calibration. Posterior exploration includes tempering and adaptive MCMC. This is an tranlastion of the python library [impala](https://github.com/lanl/impala) by LANL
+R and MATLAB library for modular Bayesian model calibration. Posterior exploration includes tempering and adaptive MCMC. This is a translation of the Python library [impala](https://github.com/lanl/impala) by LANL.
 
 ## `mvBayes`
-I'm a developer of the `mvBayes` R, Python, and MATLAB Package ([Github - R](https://github.com/sandialabs/mvBayesR);[Github - Python](https://github.com/sandialabs/mvBayesPy);[Github - MATLAB](https://github.com/sandialabs/mvBayes_matlab))
+I'm a developer of the `mvBayes` R, Python, and MATLAB package ([GitHub - R](https://github.com/sandialabs/mvBayesR); [GitHub - Python](https://github.com/sandialabs/mvBayesPy); [GitHub - MATLAB](https://github.com/sandialabs/mvBayes_matlab)).
 
 Implementation of the multivariate Bayesian regression (mvBayes) framework. Decomposes a multivariate/functional response using a user-specified orthogonal basis decomposition, and then models each basis component independently using an arbitrary user-specified (univariate) Bayesian regression model. Includes prediction and plotting methods.
 
 ## `BASS`
-I'm a developer of the `BASS` MATLAB Package ([Github](https://github.com/sandialabs/bass_matlab))
+I'm a developer of the `BASS` MATLAB package ([GitHub](https://github.com/sandialabs/bass_matlab)).
 
-Implementation of Bayesian Adaptive Spline Surfaces in MATLAB. This is a MATLAB translation of the python library [pyBASS](https://github.com/lanl/pyBASS)
+Implementation of Bayesian Adaptive Spline Surfaces in MATLAB. This is a MATLAB translation of the Python library [pyBASS](https://github.com/lanl/pyBASS).
 
 ## `BayesPPR`
-I'm a developer of the `BayesPPR` MATLAB Package ([Github](https://github.com/sandialabs/bayesppr_matlab))
+I'm a developer of the `BayesPPR` MATLAB package ([GitHub](https://github.com/sandialabs/bayesppr_matlab)).
 
-A MATLAB implementation of Bayesian Projection Pursuit Regression (BayesPPR). This is a MATLAB translation of the python library [pyBayesPPR](https://github.com/gqcollins/pyBayesPPR)
+A MATLAB implementation of Bayesian Projection Pursuit Regression (BayesPPR). This is a MATLAB translation of the Python library [pyBayesPPR](https://github.com/gqcollins/pyBayesPPR).
 
 ## `EFBMC`
-I'm a developer of the `EFBMC` Scripts ([Github](https://github.com/sandialabs/efbmc))
+I'm a developer of the `EFBMC` scripts ([GitHub](https://github.com/sandialabs/efbmc)).
 
 A set of MATLAB, R, and Python notebooks that implement the Elastic Functional Bayesian Model Calibration from the paper D. Francom, **J. D. Tucker**, J. G. Huerta, K. Shuler, and D. Ries, "Elastic Bayesian Model Calibration", *SIAM/ASA Journal on Uncertainty Quantification*, vol. 13, no. 1, 2025. [PDF](Papers/Francom-2025-Calibration-JUQ.pdf)
