@@ -1,56 +1,107 @@
 ---
 title: "Software"
+toc: false
 ---
 
-## `fdasrvf`
-I'm lead author of the `fdasrvf` R package ([CRAN](https://cran.r-project.org/web/packages/fdasrvf/index.html); [GitHub](https://github.com/jdtuck/fdasrvf_R)). 
+:::: {.grid}
 
-This package performs alignment, PCA, and modeling of multidimensional and unidimensional functions using the square-root velocity framework (Srivastava et al., 2011 [arXiv:1103.3817](https://arxiv.org/abs/1103.3817) and Tucker et al., 2013 [doi:10.1016/j.csda.2012.12.001](Papers/CSDA_PCA_12.pdf)). This framework allows for elastic analysis of functional data through phase and amplitude separation. Multiple papers use the work in this package, and it is listed in the [CRAN Functional Data Analysis Task View](https://cran.r-project.org/web/views/FunctionalData.html). See the package README for all the methods it implements and reference papers.
+::: {.g-col-12 .g-col-md-6 .card .h-100}
+::: {.card-body}
+### `fdasrvf`
+[R]{.badge .text-bg-primary} [MATLAB]{.badge .text-bg-secondary} [Julia]{.badge .text-bg-secondary}
 
-There are also versions of this code for [MATLAB](https://github.com/jdtuck/fdasrvf_MATLAB) and [Julia](https://github.com/jdtuck/ElasticFDA.jl).
+Lead author. Alignment, PCA, and modeling of multidimensional and unidimensional functions using the square-root velocity framework (Srivastava et al., 2011 [arXiv:1103.3817](https://arxiv.org/abs/1103.3817) and Tucker et al., 2013 [doi:10.1016/j.csda.2012.12.001](Papers/CSDA_PCA_12.pdf)). This framework allows for elastic analysis of functional data through phase and amplitude separation. Multiple papers use the work in this package, and it is listed in the [CRAN Functional Data Analysis Task View](https://cran.r-project.org/web/views/FunctionalData.html). See the package README for all the methods it implements and reference papers.
 
-Documentation for the Julia version: [HTML](http://elasticfdajl.readthedocs.org/en/latest/)
+[CRAN](https://cran.r-project.org/web/packages/fdasrvf/index.html) · [GitHub](https://github.com/jdtuck/fdasrvf_R) · [MATLAB](https://github.com/jdtuck/fdasrvf_MATLAB) · [Julia](https://github.com/jdtuck/ElasticFDA.jl) · [Julia docs](https://elasticfdajl.readthedocs.io/en/latest/)
+:::
+:::
 
-## `fdasrsf`
-I'm lead author of the `fdasrsf` Python package ([PyPI](https://pypi.org/project/fdasrsf/);
-[Conda](https://anaconda.org/conda-forge/fdasrsf);
-[GitHub](https://github.com/jdtuck/fdasrsf_python)). 
+::: {.g-col-12 .g-col-md-6 .card .h-100}
+::: {.card-body}
+### `fdasrsf`
+[Python]{.badge .text-bg-primary}
 
-This package performs alignment, PCA, and modeling of multidimensional and unidimensional functions using the square-root velocity framework (Srivastava et al., 2011 [arXiv:1103.3817](https://arxiv.org/abs/1103.3817) and Tucker et al., 2013 [doi:10.1016/j.csda.2012.12.001](Papers/CSDA_PCA_12.pdf)). This framework allows for elastic analysis of functional data through phase and amplitude separation. Multiple papers use the work in this package and are listed in the documentation. See the package README for all the methods it implements and reference papers.
+Lead author. The Python version of `fdasrvf`: alignment, PCA, and modeling of functional data using the square-root velocity framework, with elastic analysis through phase and amplitude separation. Multiple papers use the work in this package and are listed in the documentation. See the package README for all the methods it implements and reference papers.
 
-Documentation for the Python version: [HTML](https://fdasrsf-python.readthedocs.io/en/latest/?badge=latest)
+[PyPI](https://pypi.org/project/fdasrsf/) · [Conda](https://anaconda.org/conda-forge/fdasrsf) · [GitHub](https://github.com/jdtuck/fdasrsf_python) · [Docs](https://fdasrsf-python.readthedocs.io/en/latest/)
+:::
+:::
 
-## `stpphawkes`
-I'm the lead author of the `stpphawkes` R package ([CRAN](https://cran.r-project.org/web/packages/stpphawkes/index.html);[GitHub](https://github.com/sandialabs/stpphawkes)).
+::: {.g-col-12 .g-col-md-6 .card .h-100}
+::: {.card-body}
+### `stpphawkes`
+[R]{.badge .text-bg-primary}
 
-An R package for modeling spatio-temporal and temporal point processes using a Hawkes model accounting for missing data from the paper J. D. Tucker, L. Shand, and J. R. Lewis, "Handling Missing Data in Self-Exciting Point Process Models," Spatial Statistics, vol. 29. pp. 160-176, 2019. [PDF](Papers/SPATSTAT18_STPP.pdf)
+Lead author. Modeling spatio-temporal and temporal point processes using a Hawkes model accounting for missing data, from J. D. Tucker, L. Shand, and J. R. Lewis, "Handling Missing Data in Self-Exciting Point Process Models," *Spatial Statistics*, vol. 29, pp. 160-176, 2019. [PDF](Papers/SPATSTAT18_STPP.pdf)
 
-## `veesa`
-I'm a developer of the `veesa` R package ([CRAN](https://cran.r-project.org/web/packages/veesa/index.html);[GitHub](https://github.com/sandialabs/veesa)).
+[CRAN](https://cran.r-project.org/web/packages/stpphawkes/index.html) · [GitHub](https://github.com/sandialabs/stpphawkes)
+:::
+:::
 
-An R package for the VEESA pipeline for Explainable Machine Learning with Functional Data from the paper K. Goode, J. D. Tucker, D. Ries, and H. Hoffman, "An Explainable Pipeline for Machine Learning with Functional Data", *Journal of Data Science*, 2025.
+::: {.g-col-12 .g-col-md-6 .card .h-100}
+::: {.card-body}
+### `veesa`
+[R]{.badge .text-bg-primary}
 
-## `impala`
-I'm a developer of the `impala` R and MATLAB packages ([GitHub - R](https://github.com/sandialabs/rImpala);[GitHub - MATLAB](https://github.com/sandialabs/impala_matlab)).
+Developer. The VEESA pipeline for explainable machine learning with functional data, from K. Goode, J. D. Tucker, D. Ries, and H. Hoffman, "An Explainable Pipeline for Machine Learning with Functional Data," *Journal of Data Science*, 2025. [PDF](Papers/jds1212.pdf)
 
-R and MATLAB library for modular Bayesian model calibration. Posterior exploration includes tempering and adaptive MCMC. This is a translation of the Python library [impala](https://github.com/lanl/impala) by LANL.
+[CRAN](https://cran.r-project.org/web/packages/veesa/index.html) · [GitHub](https://github.com/sandialabs/veesa)
+:::
+:::
 
-## `mvBayes`
-I'm a developer of the `mvBayes` R, Python, and MATLAB package ([GitHub - R](https://github.com/sandialabs/mvBayesR); [GitHub - Python](https://github.com/sandialabs/mvBayesPy); [GitHub - MATLAB](https://github.com/sandialabs/mvBayes_matlab)).
+::: {.g-col-12 .g-col-md-6 .card .h-100}
+::: {.card-body}
+### `impala`
+[R]{.badge .text-bg-primary} [MATLAB]{.badge .text-bg-secondary}
 
-Implementation of the multivariate Bayesian regression (mvBayes) framework. Decomposes a multivariate/functional response using a user-specified orthogonal basis decomposition, and then models each basis component independently using an arbitrary user-specified (univariate) Bayesian regression model. Includes prediction and plotting methods.
+Developer. Modular Bayesian model calibration. Posterior exploration includes tempering and adaptive MCMC. This is a translation of the Python library [impala](https://github.com/lanl/impala) by LANL.
 
-## `BASS`
-I'm a developer of the `BASS` MATLAB package ([GitHub](https://github.com/sandialabs/bass_matlab)).
+[GitHub - R](https://github.com/sandialabs/rImpala) · [GitHub - MATLAB](https://github.com/sandialabs/impala_matlab)
+:::
+:::
 
-Implementation of Bayesian Adaptive Spline Surfaces in MATLAB. This is a MATLAB translation of the Python library [pyBASS](https://github.com/lanl/pyBASS).
+::: {.g-col-12 .g-col-md-6 .card .h-100}
+::: {.card-body}
+### `mvBayes`
+[R]{.badge .text-bg-primary} [Python]{.badge .text-bg-secondary} [MATLAB]{.badge .text-bg-secondary}
 
-## `BayesPPR`
-I'm a developer of the `BayesPPR` MATLAB package ([GitHub](https://github.com/sandialabs/bayesppr_matlab)).
+Developer. Implementation of the multivariate Bayesian regression (mvBayes) framework. Decomposes a multivariate/functional response using a user-specified orthogonal basis decomposition, and then models each basis component independently using an arbitrary user-specified (univariate) Bayesian regression model. Includes prediction and plotting methods.
 
-A MATLAB implementation of Bayesian Projection Pursuit Regression (BayesPPR). This is a MATLAB translation of the Python library [pyBayesPPR](https://github.com/gqcollins/pyBayesPPR).
+[GitHub - R](https://github.com/sandialabs/mvBayesR) · [GitHub - Python](https://github.com/sandialabs/mvBayesPy) · [GitHub - MATLAB](https://github.com/sandialabs/mvBayes_matlab)
+:::
+:::
 
-## `EFBMC`
-I'm a developer of the `EFBMC` scripts ([GitHub](https://github.com/sandialabs/efbmc)).
+::: {.g-col-12 .g-col-md-6 .card .h-100}
+::: {.card-body}
+### `BASS`
+[MATLAB]{.badge .text-bg-primary}
 
-A set of MATLAB, R, and Python notebooks that implement the Elastic Functional Bayesian Model Calibration from the paper D. Francom, **J. D. Tucker**, J. G. Huerta, K. Shuler, and D. Ries, "Elastic Bayesian Model Calibration", *SIAM/ASA Journal on Uncertainty Quantification*, vol. 13, no. 1, 2025. [PDF](Papers/Francom-2025-Calibration-JUQ.pdf)
+Developer. Bayesian Adaptive Spline Surfaces in MATLAB. This is a MATLAB translation of the Python library [pyBASS](https://github.com/lanl/pyBASS).
+
+[GitHub](https://github.com/sandialabs/bass_matlab)
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6 .card .h-100}
+::: {.card-body}
+### `BayesPPR`
+[MATLAB]{.badge .text-bg-primary}
+
+Developer. Bayesian Projection Pursuit Regression (BayesPPR) in MATLAB. This is a MATLAB translation of the Python library [pyBayesPPR](https://github.com/gqcollins/pyBayesPPR).
+
+[GitHub](https://github.com/sandialabs/bayesppr_matlab)
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6 .card .h-100}
+::: {.card-body}
+### `EFBMC`
+[MATLAB]{.badge .text-bg-primary} [R]{.badge .text-bg-secondary} [Python]{.badge .text-bg-secondary}
+
+Developer. MATLAB, R, and Python notebooks that implement Elastic Functional Bayesian Model Calibration, from D. Francom, **J. D. Tucker**, J. G. Huerta, K. Shuler, and D. Ries, "Elastic Bayesian Model Calibration," *SIAM/ASA Journal on Uncertainty Quantification*, vol. 13, no. 1, 2025. [PDF](Papers/Francom-2025-Calibration-JUQ.pdf)
+
+[GitHub](https://github.com/sandialabs/efbmc)
+:::
+:::
+
+::::

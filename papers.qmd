@@ -2,11 +2,7 @@
 title: "Papers"
 ---
 
-<br>
-<font size="5">[Google Scholar Page](https://scholar.google.com/citations?user=1jdvTZwAAAAJ&hl=en)</font> 
-<br>
-
-COPYRIGHT NOTICE: The material listed here is copyrighted. Personal use of this material is permitted. However, permission to reprint/publish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the copyright holder.
+[Google Scholar](https://scholar.google.com/citations?user=1jdvTZwAAAAJ&hl=en){.btn .btn-outline-primary}
 
 ## 2026
 **J. D. Tucker**, G. Collins, G. Huerta, and J. L. Brown, "Elastic Multi-Fidelity Bayesian Model Calibration," *SIAM/ASA Journal on Uncertainty Quantification*, submitted, 2026. [arXiv](https://arxiv.org/abs/2609.27174)
@@ -15,13 +11,10 @@ G. Collins, G. Huerta, **J. D. Tucker**, and K. Rumsey, "A Review of Bayesian Su
 
 N. Winovich, L. Moynihan, O. Abdelrahman, R. West, S. Dauphin, **J. D. Tucker**, G. Huerta, K. Potter, R. Forrest, C. Phillips, and M. Ebeida, "VoroClust: Scalable Clustering for Remote Sensing," *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2026, doi: 10.1109/JSTARS.2026.3686609. [PDF](Papers/Winovich_JSTARS_26.pdf)
 
-K. Rumsey, D. Francom, G. Gibson, **J. D. Tucker**, and G. Huerta, "Bayesian adaptive polynomial chaos expansions," *Stat*, 2026, doi: 10.1002/sta4.70151. [[PDF](Papers/Rumsey_Stat_26.pdf)
-| [R](https://github.com/knrumsey/khaos)]
+K. Rumsey, D. Francom, G. Gibson, **J. D. Tucker**, and G. Huerta, "Bayesian adaptive polynomial chaos expansions," *Stat*, 2026, doi: 10.1002/sta4.70151. [PDF](Papers/Rumsey_Stat_26.pdf) · [R](https://github.com/knrumsey/khaos)
 
 ## 2025
-K. Goode, **J. D. Tucker**, D. Ries, and H. Hoffman, "An Explainable Pipeline for Machine Learning with Functional Data," *Journal of Data Science*, 2025, doi: 10.6339/25-JDS1212. [[PDF](Papers/jds1212.pdf)
-| [CRAN](https://cran.r-project.org/web/packages/veesa/index.html)
-| [GitHub](https://github.com/sandialabs/veesa)]
+K. Goode, **J. D. Tucker**, D. Ries, and H. Hoffman, "An Explainable Pipeline for Machine Learning with Functional Data," *Journal of Data Science*, 2025, doi: 10.6339/25-JDS1212. [PDF](Papers/jds1212.pdf) · [CRAN](https://cran.r-project.org/web/packages/veesa/index.html) · [GitHub](https://github.com/sandialabs/veesa)
 
 J. Adams, B. Berman, J. Michalenko, and **J. D. Tucker**, "Conformal Anomaly Detection for Functional Data with Elastic Distance Metrics," *arXiv preprint arXiv:2504.01172*, 2025. [arXiv](https://arxiv.org/abs/2504.01172)
 
@@ -29,8 +22,7 @@ J. E. Borgert, J. Hannig, **J. D. Tucker**, L. Arbeeva, A. N. Buck, Y. M. Goligh
 
 A. Heiskala, **J. D. Tucker**, P. Choudhary, R. Nedelec, J. Ronkainen, O. Sarala, M. Järvelin, M. J. Sillanpää, and S. Sebert, "Timing based clustering of childhood BMI trajectories reveals differential maturational patterns; Study in the Northern Finland Birth Cohorts 1966 and 1986," *International Journal of Obesity*, vol. 49, pp. 872-880, 2025, doi: 10.1038/s41366-025-01714-8. [PDF](Papers/Heiskala_et_al-2025-International_Journal_of_Obesity.pdf)
 
-D. Francom, **J. D. Tucker**, J. G. Huerta, K. Shuler, and D. Ries, "Elastic Bayesian Model Calibration," *SIAM/ASA Journal on Uncertainty Quantification*, vol. 13, no. 1, pp. 195-227, 2025, doi: 10.1137/24M1644092. [[PDF](Papers/Francom-2025-Calibration-JUQ.pdf)
-| [Code](https://github.com/sandialabs/efbmc)]
+D. Francom, **J. D. Tucker**, J. G. Huerta, K. Shuler, and D. Ries, "Elastic Bayesian Model Calibration," *SIAM/ASA Journal on Uncertainty Quantification*, vol. 13, no. 1, pp. 195-227, 2025, doi: 10.1137/24M1644092. [PDF](Papers/Francom-2025-Calibration-JUQ.pdf) · [Code](https://github.com/sandialabs/efbmc)
 
 ## 2024
 A. McCombs, M. A. Ausdemore, K. Goode, J. G. Huerta, K. Shuler, **J. D. Tucker**, A. Zhang, and D. Ries, "Inverse prediction of PuO2 processing conditions using Bayesian seemingly unrelated regression with functional data," *Frontiers in Nuclear Engineering*, 2024, doi: 10.3389/fnuen.2024.1331349. [PDF](Papers/SUR24FNE.pdf)
@@ -38,12 +30,11 @@ A. McCombs, M. A. Ausdemore, K. Goode, J. G. Huerta, K. Shuler, **J. D. Tucker**
 ## 2023
 R. Darling, G. S. Clark, and **J. D. Tucker**, "Hidden Ancestor Graphs: Models for Detagging Property Graphs," *arXiv preprint arXiv:2102.09581 [math.PR]*, 2023. [arXiv](https://arxiv.org/abs/2102.09581)
 
-J. Brown, J. P. Davis, **J. D. Tucker**, J. G. Huerta, and K. Shuler, "Quantifying uncertainty in analysis of shockless dynamic compression experiments on platinum, Part 2: Bayesian model calibration," *Journal of Applied Physics*, vol. 134, no. 23, 2023. [[PDF](Papers/JAP23_calibration.pdf)
-| [Code](https://github.com/sandialabs/efbmc)]
+J. Brown, J. P. Davis, **J. D. Tucker**, J. G. Huerta, and K. Shuler, "Quantifying uncertainty in analysis of shockless dynamic compression experiments on platinum, Part 2: Bayesian model calibration," *Journal of Applied Physics*, vol. 134, no. 23, 2023. [PDF](Papers/JAP23_calibration.pdf) · [Code](https://github.com/sandialabs/efbmc)
 
 C. A. Pattyn, A. W. Edstrom, A. L. Sanchez, K. Westlake, J. D. van der Laan, **J. D. Tucker**, J. Jones, K. Hagopian, J. C. Shank, L. K. Casias, and J. B. Wright, "Event-based sensing for the detection of modulated signals in degraded visual environments," *Proc. SPIE*, vol. 12514, *Image Sensing Technologies: Materials, Devices, Systems, and Applications X*, paper 1251409, 2023. [PDF](Papers/SPIE23.pdf)
 
-**J. D. Tucker** and D. Yarger, "Elastic Functional Changepoint Detection of Climate Impacts from Localized Sources," *Environmetrics*, 2023, doi: 10.1002/env.2826. [PDF](Papers/Environmetrics23_ElasticChangeDetection.pdf) **2024 Wiley-TIES Best Environmetrics Paper Award**
+**J. D. Tucker** and D. Yarger, "Elastic Functional Changepoint Detection of Climate Impacts from Localized Sources," *Environmetrics*, 2023, doi: 10.1002/env.2826. [PDF](Papers/Environmetrics23_ElasticChangeDetection.pdf) [2024 Wiley-TIES Best Environmetrics Paper Award]{.badge .text-bg-success}
 
 K. Rumsey, J. G. Huerta, and **J. D. Tucker**, "A Localized Ensemble of Approximate Gaussian Processes for Fast Sequential Emulation," *Stat*, 2023, doi: 10.1002/sta4.576. [PDF](Papers/leapGP23.pdf)
 
@@ -67,16 +58,14 @@ C. Ting, N. Johnson, U. Onunkwo, and **J. D. Tucker**, "Faster classification us
 
 C. King, N. Martin, and **J. D. Tucker**, "Bounding Uncertainty in Functional Data: A Case Study in Reliability," *Quality Engineering*, vol. 33, no. 1, 2021. [PDF](Papers/King_QE_20.pdf)
 
-T. Harris, B. Li, N. J. Steiger, J. E. Smerdon, N. Narisetty, and **J. D. Tucker**, "Testing the exchangeability of two ensembles of spatial processes - Evaluating proxy influence in assimilated paleoclimate reconstructions," *Journal of the American Statistical Association*, vol. 116, no. 535, pp. 1100-1113, 2021, doi: 10.1080/01621459.2020.1799810. [[PDF](Papers/JASA20_proxy.pdf)
-| [R](https://www.tandfonline.com/doi/suppl/10.1080/01621459.2020.1799810)]
+T. Harris, B. Li, N. J. Steiger, J. E. Smerdon, N. Narisetty, and **J. D. Tucker**, "Testing the exchangeability of two ensembles of spatial processes - Evaluating proxy influence in assimilated paleoclimate reconstructions," *Journal of the American Statistical Association*, vol. 116, no. 535, pp. 1100-1113, 2021, doi: 10.1080/01621459.2020.1799810. [PDF](Papers/JASA20_proxy.pdf) · [R](https://www.tandfonline.com/doi/suppl/10.1080/01621459.2020.1799810)
 
-T. Harris, **J. D. Tucker**, B. Li, and L. Shand, "Elastic depths for detecting shape anomalies in functional data," *Technometrics*, vol. 63, no. 4, pp. 466-476, 2021, doi: 10.1080/00401706.2020.1811156. [[PDF](Papers/Technometrics20_edepth.pdf)
-| [R](https://www.tandfonline.com/doi/suppl/10.1080/00401706.2020.1811156)]
+T. Harris, **J. D. Tucker**, B. Li, and L. Shand, "Elastic depths for detecting shape anomalies in functional data," *Technometrics*, vol. 63, no. 4, pp. 466-476, 2021, doi: 10.1080/00401706.2020.1811156. [PDF](Papers/Technometrics20_edepth.pdf) · [R](https://www.tandfonline.com/doi/suppl/10.1080/00401706.2020.1811156)
 
 ## 2020
-X. Zhang, S. Kurtek, O. Chkrebtii, and **J. D. Tucker**, "Elastic $k$-means clustering of functional data for posterior exploration, with an application to inference on acute respiratory infection dynamics," *arXiv preprint arXiv:2011.12397 [stat.ME]*, 2020. [arXiv](http://arxiv.org/abs/2011.12397)
+X. Zhang, S. Kurtek, O. Chkrebtii, and **J. D. Tucker**, "Elastic $k$-means clustering of functional data for posterior exploration, with an application to inference on acute respiratory infection dynamics," *arXiv preprint arXiv:2011.12397 [stat.ME]*, 2020. [arXiv](https://arxiv.org/abs/2011.12397)
 
-A. H. Foss, R. B. Lehoucq, W. Z. Stuart, **J. D. Tucker**, and J. W. Berry, "A Deterministic Hitting-Time Moment Approach to Seed-set Expansion over a Graph," *arXiv preprint arXiv:2011.09544 [cs.SI]*, 2020. [arXiv](http://arxiv.org/abs/2011.09544)
+A. H. Foss, R. B. Lehoucq, W. Z. Stuart, **J. D. Tucker**, and J. W. Berry, "A Deterministic Hitting-Time Moment Approach to Seed-set Expansion over a Graph," *arXiv preprint arXiv:2011.09544 [cs.SI]*, 2020. [arXiv](https://arxiv.org/abs/2011.09544)
 
 L. Patel, L. Shand, **J. D. Tucker**, and G. Huerta, "Assessing Extreme Value Analysis to predict rare events from the Global Terrorism Database," *Proc. JSM*, August 2020. [PDF](Papers/JSM20.pdf)
 
@@ -117,20 +106,14 @@ T. G-Michael, B. Marchand, **J. D. Tucker**, D. D. Sternlicht, T. M. Marston, an
 T. G-Michael, **J. D. Tucker**, and R. R. Roberts, "Statistically Normalized Coherent Change Detection for Synthetic Aperture Sonar Imagery," *Proc. SPIE*, April 2016. [PDF](Papers/SPIE16.pdf)
 
 ## 2014
-**J. D. Tucker**, W. Wu, and A. Srivastava, "Phase-Amplitude Separation of Proteomics Data Using Extended Fisher-Rao Metric," *Electronic Journal of Statistics*, vol. 8, no. 2, pp. 1724-1733, 2014. [[PDF](Papers/euclid.ejs.1414588155.pdf)
-| [Code](https://cran.r-project.org/web/packages/fdasrvf/index.html)]
+**J. D. Tucker**, W. Wu, and A. Srivastava, "Phase-Amplitude Separation of Proteomics Data Using Extended Fisher-Rao Metric," *Electronic Journal of Statistics*, vol. 8, no. 2, pp. 1724-1733, 2014. [PDF](Papers/euclid.ejs.1414588155.pdf) · [Code](https://cran.r-project.org/web/packages/fdasrvf/index.html)
 
 T. G-Michael, B. Marchand, **J. D. Tucker**, D. D. Sternlicht, and T. M. Marston, "Automated Change Detection for Synthetic Aperture Sonar," *Proc. SPIE*, May 2014. [PDF](Papers/spie14.pdf)
 
-**J. D. Tucker**, W. Wu, and A. Srivastava, "Analysis of signals under compositional noise with applications to SONAR data," *IEEE Journal of Oceanic Engineering*, vol. 39, no. 2, pp. 318-330, April 2014. [[PDF](Papers/IEEEJOE_AC.pdf)
-| [Code](https://cran.r-project.org/web/packages/fdasrvf/index.html)]
+**J. D. Tucker**, W. Wu, and A. Srivastava, "Analysis of signals under compositional noise with applications to SONAR data," *IEEE Journal of Oceanic Engineering*, vol. 39, no. 2, pp. 318-330, April 2014. [PDF](Papers/IEEEJOE_AC.pdf) · [Code](https://cran.r-project.org/web/packages/fdasrvf/index.html)
 
 ## 2013
-**J. D. Tucker**, W. Wu, and A. Srivastava, "Generative Models for Function Data using Phase and Amplitude Separation," *Computational Statistics and Data Analysis*, vol. 61, pp. 50-66, May 2013. [[PDF](Papers/CSDA_PCA_12.pdf)
-| [R](https://cran.r-project.org/web/packages/fdasrvf/index.html)
-| [MATLAB](https://github.com/jdtuck/fdasrvf_MATLAB)
-| [Python](https://github.com/jdtuck/fdasrsf_python)
-| [Julia](https://github.com/jdtuck/ElasticFDA.jl)]
+**J. D. Tucker**, W. Wu, and A. Srivastava, "Generative Models for Function Data using Phase and Amplitude Separation," *Computational Statistics and Data Analysis*, vol. 61, pp. 50-66, May 2013. [PDF](Papers/CSDA_PCA_12.pdf) · [R](https://cran.r-project.org/web/packages/fdasrvf/index.html) · [MATLAB](https://github.com/jdtuck/fdasrvf_MATLAB) · [Python](https://github.com/jdtuck/fdasrsf_python) · [Julia](https://github.com/jdtuck/ElasticFDA.jl)
 
 ## 2012
 **J. D. Tucker**, W. Wu, and A. Srivastava, "Analysis of Signals Under Compositional Noise with Application to SONAR Data," *Proc. MTS/IEEE Oceans 2012*, pp. 1-6, October 2012. [PDF](Papers/Oceans12.pdf)
@@ -175,40 +158,43 @@ M. R. Azimi-Sadjadi and **J. D. Tucker**, "Target detection from dual disparate 
 **J. D. Tucker**, M. R. Azimi-Sadjadi, and G. J. Dobeck, "Coherent-based method for detection of underwater objects from sonar imagery," *Proc. SPIE*, vol. 6553, paper 65530U, April 2007. [PDF](Papers/spie07.pdf)
 
 ## Invited Talks
-"Elastic Functional Changepoint Detection of Climate Impacts from Localized Sources" *Environmetrics TIES Webinar*, October 24, 2025, [Slides](https://jdtuck.github.io/presentations/TIES_Webinar_Oct_25/TIES_Webinar_Oct25.html) [Video](https://www.youtube.com/@environmetricswebinar3128)
+"Elastic Functional Changepoint Detection of Climate Impacts from Localized Sources," *Environmetrics TIES Webinar*, October 24, 2025. [Slides](https://jdtuck.github.io/presentations/TIES_Webinar_Oct_25/TIES_Webinar_Oct25.html) · [Video](https://www.youtube.com/@environmetricswebinar3128)
 
-"Bayesian Model Calibration: An Elastic Approach" *Colorado State University Statistics Seminar*, April 28, 2025, [Slides](https://jdtuck.github.io/presentations/CSU_April25/CSU_April25.html)
+"Bayesian Model Calibration: An Elastic Approach," *Colorado State University Statistics Seminar*, April 28, 2025. [Slides](https://jdtuck.github.io/presentations/CSU_April25/CSU_April25.html)
 
-"Elastic Functional Data Analysis: with Applications to Functional Changepoint" *Stony Brook SIAM Speaker*, November 19, 2024, [Slides](https://jdtuck.github.io/presentations/StoneyBrook_Nov_24/StoneyBrook_Nov_24.html)
+"Elastic Functional Data Analysis: with Applications to Functional Changepoint," *Stony Brook SIAM Speaker*, November 19, 2024. [Slides](https://jdtuck.github.io/presentations/StoneyBrook_Nov_24/StoneyBrook_Nov_24.html)
 
-"Bayesian Model Calibration: An Elastic Approach" *Purdue Statistical Colloquium*, February 23, 2024, [Slides](https://jdtuck.github.io/presentations/Purdue_Feb24/Purdue_Feb24.html) 
+"Bayesian Model Calibration: An Elastic Approach," *Purdue Statistical Colloquium*, February 23, 2024. [Slides](https://jdtuck.github.io/presentations/Purdue_Feb24/Purdue_Feb24.html)
 
-"Elastic Bayesian Model Calibration" *ASA SDNS Webinar*, December 04, 2023, [Slides](https://jdtuck.github.io/presentations/ASA_23_Calibration/index.html) [Video](https://www.youtube.com/watch?v=UNyOfL_zLX8&t=1469s)
+"Elastic Bayesian Model Calibration," *ASA SDNS Webinar*, December 04, 2023. [Slides](https://jdtuck.github.io/presentations/ASA_23_Calibration/index.html) · [Video](https://www.youtube.com/watch?v=UNyOfL_zLX8&t=1469s)
 
-"Elastic Bayesian Model Calibration" *FSU Shape Group Statistical Meeting*, January 24, 2023, [Slides](https://jdtuck.github.io/presentations/FSU_Jan23/FSU_Jan23.html) 
+"Elastic Bayesian Model Calibration," *FSU Shape Group Statistical Meeting*, January 24, 2023. [Slides](https://jdtuck.github.io/presentations/FSU_Jan23/FSU_Jan23.html)
 
-"Elastic Functional Data Analysis", *SMU Statistical Colloquium*, November 4, 2022, [Slides](Presentations/SMU_Nov_22.pdf)
+"Elastic Functional Data Analysis," *SMU Statistical Colloquium*, November 4, 2022. [Slides](Presentations/SMU_Nov_22.pdf)
 
-"Elastic Functional Tolerance Bounds", *LANL Statistical Colloquium*, December 16, 2020
+"Elastic Functional Tolerance Bounds," *LANL Statistical Colloquium*, December 16, 2020.
 
-"Elastic Functional Data Analysis", *Brigham Young University Statistics Colloquium*, December 4, 2019 [Slides](https://jdtuck.github.io/presentations/FDA_Overview/FDA_Overview.html) 
+"Elastic Functional Data Analysis," *Brigham Young University Statistics Colloquium*, December 4, 2019. [Slides](https://jdtuck.github.io/presentations/FDA_Overview/FDA_Overview.html)
 
-"Sandia Applications of Functional Data Analysis", *University of Illinois Statistics Colloquium*, November 22, 2019
+"Sandia Applications of Functional Data Analysis," *University of Illinois Statistics Colloquium*, November 22, 2019.
 
-"Elastic Functional Data Analysis", *Australian National University Statistics Colloquium*, July 12, 2018
+"Elastic Functional Data Analysis," *Australian National University Statistics Colloquium*, July 12, 2018.
 
-"Elastic Functional Data Analysis", *University of New Mexico Statistics Colloquium*, February 2, 2018
+"Elastic Functional Data Analysis," *University of New Mexico Statistics Colloquium*, February 2, 2018.
 
-"Doppler Multi-INT Detection and Tracking", *NSWC-PCD Invited Lecture*, October 1, 2015 
+"Doppler Multi-INT Detection and Tracking," *NSWC-PCD Invited Lecture*, October 1, 2015.
 
-"Alignment and Analysis of Proteomics Data using Square Root Slope Function Framework", *CTW: Statistics of Time Warpings and Phase Variations 2012*, OSU MBI, Nov 7, 2012 [Slides](Presentations/MBI2012_Tucker.pdf)
+"Alignment and Analysis of Proteomics Data using Square Root Slope Function Framework," *CTW: Statistics of Time Warpings and Phase Variations 2012*, OSU MBI, Nov 7, 2012. [Slides](Presentations/MBI2012_Tucker.pdf)
 
-"Statistical Analysis and Modeling of Elastic Functions", *Department of Mathematical and Statistical Sciences, University of Alberta*, Aug 23, 2011. (Organizer: Yau Shu Wong) [Slides](Presentations/UA-Function_Warping.pdf)
+"Statistical Analysis and Modeling of Elastic Functions," *Department of Mathematical and Statistical Sciences, University of Alberta*, Aug 23, 2011 (Organizer: Yau Shu Wong). [Slides](Presentations/UA-Function_Warping.pdf)
 
 ## Patents
-"Density-Based Clustering of Multidimensional Data" US Patent Pending
+"Density-Based Clustering of Multidimensional Data," US Patent Pending.
 
-"Method and system for training an artificial neural network utilizing physics based knowledge" US Patent No. US12229934 [PDF](Papers/US12229934.pdf)
+"Method and system for training an artificial neural network utilizing physics based knowledge," US Patent No. US12229934. [PDF](Papers/US12229934.pdf)
 
-"Automated Change Detection Technique for Synthetic Aperture Sonar" US Patent No. US10049295B2 [PDF](Papers/US10049295.pdf)
+"Automated Change Detection Technique for Synthetic Aperture Sonar," US Patent No. US10049295B2. [PDF](Papers/US10049295.pdf)
 
+::: {.callout-note collapse="true" title="Copyright notice"}
+The material listed here is copyrighted. Personal use of this material is permitted. However, permission to reprint/publish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the copyright holder.
+:::
