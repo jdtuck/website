@@ -65,6 +65,8 @@ C. Ting, N. Johnson, U. Onunkwo, and **J. D. Tucker**, "Faster classification us
 
 **J. D. Tucker**, L. Shand, and K. Chowdhary, "Multimodal Bayesian Registration of Noisy Functions using Hamiltonian Monte Carlo," *Computational Statistics and Data Analysis*, 2021, doi: 10.1016/j.csda.2021.107298. [PDF](Papers/CSDA_Bayesian_21.pdf)
 
+C. King, N. Martin, and **J. D. Tucker**, "Bounding Uncertainty in Functional Data: A Case Study in Reliability," *Quality Engineering*, vol. 33, no. 1, 2021. [PDF](Papers/King_QE_20.pdf)
+
 ## 2020
 X. Zhang, S. Kurtek, O. Chkrebtii, and **J. D. Tucker**, "Elastic $k$-means clustering of functional data for posterior exploration, with an application to inference on acute respiratory infection dynamics," *arXiv preprint arXiv:2011.12397 [stat.ME]*, 2020. [arXiv](http://arxiv.org/abs/2011.12397)
 
@@ -73,12 +75,10 @@ A. H. Foss, R. B. Lehoucq, W. Z. Stuart, **J. D. Tucker**, and J. W. Berry, "A D
 L. Patel, L. Shand, **J. D. Tucker**, and G. Huerta, "Assessing Extreme Value Analysis to predict rare events from the Global Terrorism Database," *Proc. JSM*, August 2020. [PDF](Papers/JSM20.pdf)
 
 T. Harris, B. Li, N. J. Steiger, J. E. Smerdon, N. Narisetty, and **J. D. Tucker**, "Testing the exchangeability of two ensembles of spatial processes - Evaluating proxy influence in assimilated paleoclimate reconstructions," *Journal of the American Statistical Association*, 2020, doi: 10.1080/01621459.2020.1799810. [[PDF](Papers/JASA20_proxy.pdf)
-| [R](Code/JASA20_proxy_supp.zip)]
-
-C. King, N. Martin, and **J. D. Tucker**, "Bounding Uncertainty in Functional Data: A Case Study in Reliability," *Quality Engineering*, vol. 33, no. 1, 2021. [PDF](Papers/King_QE_20.pdf)
+| [R](https://www.tandfonline.com/doi/suppl/10.1080/01621459.2020.1799810)]
 
 T. Harris, **J. D. Tucker**, B. Li, and L. Shand, "Elastic depths for detecting shape anomalies in functional data," *Technometrics*, 2020, doi: 10.1080/00401706.2020.1811156. [[PDF](Papers/Technometrics20_edepth.pdf)
-| [R](Code/Technometrics20_edepth_supp.zip)]
+| [R](https://www.tandfonline.com/doi/suppl/10.1080/00401706.2020.1811156)]
 
 M. K. Ahn, **J. D. Tucker**, W. Wu, and A. Srivastava, "Regression Models Using Shapes of Functions as Predictors," *Computational Statistics and Data Analysis*, 2020, doi: 10.1016/j.csda.2020.107017. [PDF](Papers/Ahn_CSDA_20.pdf)
 
@@ -89,11 +89,11 @@ S. Reza, N. Martin, T. Buchheit, and **J. D. Tucker**, "Tolerance Bound Calculat
 
 Y. Guan, C. Sampson, **J. D. Tucker**, W. Chang, A. Mondal, M. Haran, and D. Sulsky, "Computer model calibration based on image warping metrics: an application for sea ice deformation," *Journal of Agricultural, Biological and Environmental Statistics*, vol. 24, no. 3, pp. 444-463, September 2019. [PDF](Papers/Guan2019_Article_ComputerModelCalibrationBasedO.pdf)
 
-## 2018
 **J. D. Tucker**, L. Shand, and J. R. Lewis, "Handling Missing Data in Self-Exciting Point Process Models," *Spatial Statistics*, vol. 29, pp. 160-176, 2019. [PDF](Papers/SPATSTAT18_STPP.pdf)
 
 **J. D. Tucker**, J. R. Lewis, and A. Srivastava, "Elastic Functional Principal Component Regression," *Statistical Analysis and Data Mining*, vol. 12, no. 2, pp. 101-115, 2019. [PDF](Papers/SADM18_elastic_regression.pdf)
 
+## 2018
 T. Harris, B. Li, N. Steiger, J. Smerdon, and **J. D. Tucker**, "Evaluating Proxy Influence in Data Assimilation," *Proc. Climate Informatics*, September 2018.
 
 T. Harris, B. Li, N. Steiger, J. Smerdon, and **J. D. Tucker**, "Evaluating proxy influence in data assimilation based climate field reconstruction," *Proc. JSM*, August 2018.
@@ -167,7 +167,7 @@ N. Klausner, M. R. Azimi-Sadjadi, and **J. D. Tucker**, "Underwater target detec
 
 **J. D. Tucker**, N. Klausner, and M. R. Azimi-Sadjadi, "Target detection in m-disparate sonar platforms using multichannel Hypothesis Testing," *Proc. MTS/IEEE Oceans 2008*, pp. 1-7, September 2008. [PDF](Papers/oceans08.pdf)
 
-**J. D. Tucker** and M. R. Azimi-Sadjadi, "Target detection from dual disparate sonar platforms using canonical correlations," *Proc. SPIE*, vol. 6953, paper 69530J, March 2008. [PDF](Papers/spie08.pdf)
+M. R. Azimi-Sadjadi and **J. D. Tucker**, "Target detection from dual disparate sonar platforms using canonical correlations," *Proc. SPIE*, vol. 6953, paper 69530J, March 2008. [PDF](Papers/spie08.pdf)
 
 ## 2007
 **J. D. Tucker**, M. R. Azimi-Sadjadi, and G. J. Dobeck, "Canonical coordinates for detection and classification of underwater objects from sonar imagery," *Proc. IEEE Oceans 2007*, pp. 1-6, June 2007. [PDF](Papers/oceans07.pdf)
