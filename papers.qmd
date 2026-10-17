@@ -28,7 +28,7 @@ J. Adams, B. Berman, J. Michalenko, **J. D. Tucker**, "Conformal Anomaly Detecti
 J. E. Borgert, J. Hannig, **J. D. Tucker**, L. Arbeeva, A. N. Buck, Y. M. Golightly, S. P. Messier, A. E. Nelson, and J. S. Marron, "Elastic Shape Analysis of Movement Data", *JASA Case Studies and Applications*, 10.1080/01621459.2025.2572778, 2025. [PDF](Papers/JASA25_Borgert.pdf)
 
 ## 2024
-A. Heiskala, **J. D. Tucker**, P. Choudhary, R. Nedelec, J. Ronkainen, O. Sarala, M. Järvelin, M. J. Sillanpää, and S. Sebert, "Timing based clustering of childhood BMI trajectories reveal differential maturational patterns; Study in the Northern Finland Birth Cohorts 1966 and 1986", *International Journal of Obesity*, 10.1038/s41366-025-01714-8, 2024. [PDF](Papers/Heiskala_et_al-2025-International_Journal_of_Obesity.pdf)
+A. Heiskala, **J. D. Tucker**, P. Choudhary, R. Nedelec, J. Ronkainen, O. Sarala, M. Järvelin, M. J. Sillanpää, and S. Sebert, "Timing based clustering of childhood BMI trajectories reveals differential maturational patterns; Study in the Northern Finland Birth Cohorts 1966 and 1986", *International Journal of Obesity*, 10.1038/s41366-025-01714-8, 2024. [PDF](Papers/Heiskala_et_al-2025-International_Journal_of_Obesity.pdf)
 
 A. McCombs, M. A. Ausdemore, K. Goode, J. G. Huerta, K. Shuler, **J. D. Tucker**, A. Zhang, and D. Ries, “Inverse prediction of PuO2 processing conditions using Bayesian seemingly unrelated regression with functional data”, *Frontiers in Nuclear Engineering-Nuclear Materials*. 10.3389/fnuen.2024.1331349, 2024. [PDF](Papers/SUR24FNE.pdf)
 
@@ -151,7 +151,7 @@ T. G-Michael and **J. D. Tucker**, "Canonical correlation analysis for coherent 
 
 N. Klausner, M. R. Azimi-Sadjadi, and **J. D. Tucker**, "Multi-sonar target detection using multi-channel coherence analysis," *Proc. of MTS/IEEE Oceans 2010 Conference*, pp. 1-7, Sept. 2010. [PDF](Papers/Oecans10.pdf)
 
-**J. D. Tucker** and M. R. Azimi-Sadjadi, "Neyman pearson detection of K-distributed random variables," *Proc SPIE*, vol. 7664, pp. Q1-Q12, April 2010. [PDF](Papers/SPIE10.pdf)
+**J. D. Tucker** and M. R. Azimi-Sadjadi, "Neyman-Pearson detection of K-distributed random variables," *Proc SPIE*, vol. 7664, pp. Q1-Q12, April 2010. [PDF](Papers/SPIE10.pdf)
 
 ## 2009
 M. Kabatek, M. R. Azimi-Sadjadi, and **J. D. Tucker**, "An underwater target detection system for electro-optical imagery data," *Proc. of MTS/IEEE Oceans 2009 Conference*, pp. 1–8, October 2009. [PDF](Papers/Oceans09-EO.pdf)
@@ -204,7 +204,7 @@ N. Klausner, M. R. Azimi-Sadjadi, and **J. D. Tucker**, "Underwater target detec
 "Statistical Analysis and Modeling of Elastic Functions", *Department of Mathematical and Statistical Sciences, University of Alberta*, Aug 23, 2011. (Organizer: Yau Shu Wong) [Slides](Presentations/UA-Function_Warping.pdf)
 
 ## Patents
-"Density-Based clustering of multidimensional Data" US Patent Pending
+"Density-Based Clustering of Multidimensional Data" US Patent Pending
 
 "Method and system for training an artificial neural network utilizing physics based knowledge" US Patent No. US12229934 [PDF](Papers/US12229934.pdf)
 
