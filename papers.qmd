@@ -61,7 +61,7 @@ L. Patel, L. Shand, **J. D. Tucker**, and  G. Huerta, "Spatio-temporal extreme e
 
 T. Harris, B. Li, and **J. D. Tucker**. "Scalable Multiple Changepoint Detection for Functional Data Sequences", *Environmetrics*, 10.1002/env.2710, 2021. [PDF](Papers/Harris_Environmetrics_21.pdf) 
 
-C. Ting, N. Johson, U. Onunkwo, and **J. D. Tucker**. "Faster classification using compression analytics", *IEEE ICDM Workshop on Data Mining and Machine Learning for Cybersecurity*, 2021. [PDF](Papers/IEEEDML_CYber21.pdf)
+C. Ting, N. Johnson, U. Onunkwo, and **J. D. Tucker**. "Faster classification using compression analytics", *IEEE ICDM Workshop on Data Mining and Machine Learning for Cybersecurity*, 2021. [PDF](Papers/IEEEDML_CYber21.pdf)
 
 **J. D. Tucker**, L. Shand, and K. Chowdhary. "Multimodal Bayesian Registration of Noisy Functions using Hamiltonian Monte Carlo", *Computational Statistics and Data Analysis*, 10.1016/j.csda.2021.107298, 2021. [PDF](Papers/CSDA_Bayesian_21.pdf)
 
@@ -204,7 +204,7 @@ N. Klausner, M. R. Azimi-Sadjadi, and **J. D. Tucker**, "Underwater target detec
 "Statistical Analysis and Modeling of Elastic Functions", *Department of Mathematical and Statistical Sciences, University of Alberta*, Aug 23, 2011. (Organizer: Yau Shu Wong) [Slides](Presentations/UA-Function_Warping.pdf)
 
 ## Patents
-"Density-Based clustering of multidimensional Data" US Patent No. Applied
+"Density-Based clustering of multidimensional Data" US Patent Pending
 
 "Method and system for training an artificial neural network utilizing physics based knowledge" US Patent No. US12229934 [PDF](Papers/US12229934.pdf)
 
