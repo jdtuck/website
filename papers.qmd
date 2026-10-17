@@ -67,18 +67,18 @@ C. Ting, N. Johnson, U. Onunkwo, and **J. D. Tucker**, "Faster classification us
 
 C. King, N. Martin, and **J. D. Tucker**, "Bounding Uncertainty in Functional Data: A Case Study in Reliability," *Quality Engineering*, vol. 33, no. 1, 2021. [PDF](Papers/King_QE_20.pdf)
 
+T. Harris, B. Li, N. J. Steiger, J. E. Smerdon, N. Narisetty, and **J. D. Tucker**, "Testing the exchangeability of two ensembles of spatial processes - Evaluating proxy influence in assimilated paleoclimate reconstructions," *Journal of the American Statistical Association*, vol. 116, no. 535, pp. 1100-1113, 2021, doi: 10.1080/01621459.2020.1799810. [[PDF](Papers/JASA20_proxy.pdf)
+| [R](https://www.tandfonline.com/doi/suppl/10.1080/01621459.2020.1799810)]
+
+T. Harris, **J. D. Tucker**, B. Li, and L. Shand, "Elastic depths for detecting shape anomalies in functional data," *Technometrics*, vol. 63, no. 4, pp. 466-476, 2021, doi: 10.1080/00401706.2020.1811156. [[PDF](Papers/Technometrics20_edepth.pdf)
+| [R](https://www.tandfonline.com/doi/suppl/10.1080/00401706.2020.1811156)]
+
 ## 2020
 X. Zhang, S. Kurtek, O. Chkrebtii, and **J. D. Tucker**, "Elastic $k$-means clustering of functional data for posterior exploration, with an application to inference on acute respiratory infection dynamics," *arXiv preprint arXiv:2011.12397 [stat.ME]*, 2020. [arXiv](http://arxiv.org/abs/2011.12397)
 
 A. H. Foss, R. B. Lehoucq, W. Z. Stuart, **J. D. Tucker**, and J. W. Berry, "A Deterministic Hitting-Time Moment Approach to Seed-set Expansion over a Graph," *arXiv preprint arXiv:2011.09544 [cs.SI]*, 2020. [arXiv](http://arxiv.org/abs/2011.09544)
 
 L. Patel, L. Shand, **J. D. Tucker**, and G. Huerta, "Assessing Extreme Value Analysis to predict rare events from the Global Terrorism Database," *Proc. JSM*, August 2020. [PDF](Papers/JSM20.pdf)
-
-T. Harris, B. Li, N. J. Steiger, J. E. Smerdon, N. Narisetty, and **J. D. Tucker**, "Testing the exchangeability of two ensembles of spatial processes - Evaluating proxy influence in assimilated paleoclimate reconstructions," *Journal of the American Statistical Association*, 2020, doi: 10.1080/01621459.2020.1799810. [[PDF](Papers/JASA20_proxy.pdf)
-| [R](https://www.tandfonline.com/doi/suppl/10.1080/01621459.2020.1799810)]
-
-T. Harris, **J. D. Tucker**, B. Li, and L. Shand, "Elastic depths for detecting shape anomalies in functional data," *Technometrics*, 2020, doi: 10.1080/00401706.2020.1811156. [[PDF](Papers/Technometrics20_edepth.pdf)
-| [R](https://www.tandfonline.com/doi/suppl/10.1080/00401706.2020.1811156)]
 
 M. K. Ahn, **J. D. Tucker**, W. Wu, and A. Srivastava, "Regression Models Using Shapes of Functions as Predictors," *Computational Statistics and Data Analysis*, 2020, doi: 10.1016/j.csda.2020.107017. [PDF](Papers/Ahn_CSDA_20.pdf)
 
