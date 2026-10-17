@@ -121,7 +121,7 @@ T. G-Michael, **J. D. Tucker**, and R. R. Roberts, "Statistically Normalized Coh
 
 T. G-Michael, B. Marchand, **J. D. Tucker**, D. D. Sternlicht, and T. M. Marston, "Automated Change Detection for Synthetic Aperture Sonar," *Proc SPIE*, May 2014. [PDF](Papers/spie14.pdf)
 
-**J. D. Tucker**, W. Wu, and A. Srivastava, "Analysis of signals under compositional noise with applications to SONAR data," *IEEE Journal of Oceanic Engineering*, vol 29, no. 2. pp 318-330, Apr 2014. [[PDF](Papers/IEEEJOE_AC.pdf) | [Code](https://cran.r-project.org/web/packages/fdasrvf/index.html)]
+**J. D. Tucker**, W. Wu, and A. Srivastava, "Analysis of signals under compositional noise with applications to SONAR data," *IEEE Journal of Oceanic Engineering*, vol. 39, no. 2, pp. 318-330, Apr 2014. [[PDF](Papers/IEEEJOE_AC.pdf) | [Code](https://cran.r-project.org/web/packages/fdasrvf/index.html)]
 
 ## 2013
 **J. D. Tucker**, W. Wu, and A. Srivastava, "Generative Models for Function Data using Phase and Amplitude Separation," *Computational Statistics and Data Analysis*, vol. 61, pp. 50-66, May 2013. [[PDF](Papers/CSDA_PCA_12.pdf)
