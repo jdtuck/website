@@ -24,7 +24,7 @@ website:
       - icon: github
         url: "https://github.com/jdtuck"
   page-footer:
-    left: "© Copyright 2026 J. Derek Tucker. All rights reserved, except where otherwise noted."
+    left: '© Copyright <span class="footer-year">2026</span> J. Derek Tucker. All rights reserved, except where otherwise noted.'
   cookie-consent: true
 
 execute:
@@ -32,12 +32,14 @@ execute:
 
 format:
   html:
-    theme: [sandstone, _variables.scss]
+    theme:
+      light: [sandstone, _variables.scss]
+      dark: [darkly, _variables.scss]
     css: styles.css
     toc: true
     toc-depth: 4
     toc-title: "Contents"
     html-math-method: katex
-    include-in-header:
-      - includes.html
+    include-after-body:
+      - footer-year.html
     highlight-style: tango
