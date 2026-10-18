@@ -1,0 +1,36 @@
+---
+title: "Students"
+---
+
+Current and former Ph.D. students, postdoctoral researchers, and graduate student interns I have advised or mentored. See the [Detailed CV](Docs/JDT_CV.pdf) for more.
+
+## Current
+
+### Graduate Committees
+- **Tristan Contant**, Department of Statistics, Colorado State University (expected 2027)
+
+## Former
+
+### Ph.D. Students
+- **Carole Hall** (2026), Ph.D. Mathematics, Stony Brook University\
+  *Dissertation topic:* modeling of ecological patterns using shape\
+  Now Postdoctoral Researcher, Colorado School of Mines
+- **Joel Upston** (2022), Ph.D. Mathematics, University of New Mexico\
+  *Dissertation topic:* sea ice model calibration using proper metrics
+- **Trevor Harris** (2021), Ph.D. Statistics, University of Illinois Urbana-Champaign\
+  *Dissertation topic:* data depth and functional data analysis\
+  Now Assistant Professor, Texas A&M University
+
+### Postdoctoral Researchers (Sandia)
+- **Drew Yarger** (2023), now Assistant Professor of Statistics, Purdue University
+- **Michael Weylandt** (2023), now Assistant Professor, Paul H. Chook Department of Information Systems and Statistics, Baruch College, CUNY
+- **Katherine Goode** (2022), now Staff Member, Sandia National Laboratories
+
+### Graduate Student Interns (Sandia)
+- **Carole Hall** (2024–2026), Mathematics, Stony Brook University. Now Postdoctoral Researcher, Colorado School of Mines
+- **Jimmy Hickey** (2021–2022), Statistics, North Carolina State University (Ph.D. 2024). Now Manager, AI/Machine Learning
+- **David Angeles** (2021), Statistics, The Ohio State University
+- **Robin Tu** (2020), Statistics, University of Illinois Urbana-Champaign (Ph.D. 2022). Now Senior Principal Engineer
+- **Aubrey Odom** (2020), Statistics, Brigham Young University. Now Computational Biology Scientist, Tempus AI
+- **Tabytha Perez** (2020)
+- **Trevor Harris** (2018–2020), Statistics, University of Illinois Urbana-Champaign. Now Assistant Professor, Texas A&M University

@@ -18,6 +18,7 @@ website:
       - research.qmd
       - papers.qmd
       - software.qmd
+      - students.qmd
       - resume.qmd
       - icon: linkedin
         url: "https://linkedin.com/in/derek-tucker-04247818"
