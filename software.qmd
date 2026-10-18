@@ -43,7 +43,7 @@ Lead author. Modeling spatio-temporal and temporal point processes using a Hawke
 ### `veesa`
 [R]{.badge .text-bg-primary}
 
-Developer. The VEESA pipeline for explainable machine learning with functional data, from K. Goode, J. D. Tucker, D. Ries, and H. Hoffman, "An Explainable Pipeline for Machine Learning with Functional Data," *Journal of Data Science*, 2025. [PDF](Papers/jds1212.pdf)
+Developer. The VEESA pipeline for explainable machine learning with functional data, from K. Goode, J. D. Tucker, D. Ries, and H. Hofmann, "Explainable Machine Learning for Functional Data," *Journal of Data Science*, 2026. [PDF](Papers/jds1212.pdf)
 
 [CRAN](https://cran.r-project.org/web/packages/veesa/index.html) · [GitHub](https://github.com/sandialabs/veesa)
 :::

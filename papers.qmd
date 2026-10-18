@@ -5,77 +5,81 @@ title: "Papers"
 [Google Scholar](https://scholar.google.com/citations?user=1jdvTZwAAAAJ&hl=en){.btn .btn-outline-primary}
 
 ## 2026
+K. Goode, **J. D. Tucker**, D. Ries, and H. Hofmann, "Explainable Machine Learning for Functional Data," *Journal of Data Science*, vol. 24, no. 1, pp. 125-145, 2026, doi: 10.6339/25-JDS1212. [PDF](Papers/jds1212.pdf) · [CRAN](https://cran.r-project.org/web/packages/veesa/index.html) · [GitHub](https://github.com/sandialabs/veesa)
+
 **J. D. Tucker**, G. Collins, G. Huerta, and J. L. Brown, "Elastic Multi-Fidelity Bayesian Model Calibration," *SIAM/ASA Journal on Uncertainty Quantification*, submitted, 2026. [arXiv](https://arxiv.org/abs/2609.27174)
 
 G. Collins, G. Huerta, **J. D. Tucker**, and K. Rumsey, "A Review of Bayesian Surrogate Modeling for High-Dimensional Computer Simulations," *WIREs Computational Statistics*, in revision, 2026.
 
-N. Winovich, L. Moynihan, O. Abdelrahman, R. West, S. Dauphin, **J. D. Tucker**, G. Huerta, K. Potter, R. Forrest, C. Phillips, and M. Ebeida, "VoroClust: Scalable Clustering for Remote Sensing," *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2026, doi: 10.1109/JSTARS.2026.3686609. [PDF](Papers/Winovich_JSTARS_26.pdf)
+N. Winovich, L. Moynihan, O. Abdelrahman, R. West, S. Dauphin, **J. D. Tucker**, G. Huerta, K. Potter, R. Forrest, C. Phillips, and M. Ebeida, "VoroClust: Scalable Clustering for Remote Sensing," *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, vol. 19, pp. 15071-15089, 2026, doi: 10.1109/JSTARS.2026.3686609. [PDF](Papers/Winovich_JSTARS_26.pdf)
 
-K. Rumsey, D. Francom, G. Gibson, **J. D. Tucker**, and G. Huerta, "Bayesian adaptive polynomial chaos expansions," *Stat*, 2026, doi: 10.1002/sta4.70151. [PDF](Papers/Rumsey_Stat_26.pdf) · [R](https://github.com/knrumsey/khaos)
+K. Rumsey, D. Francom, G. Gibson, **J. D. Tucker**, and G. Huerta, "Bayesian adaptive polynomial chaos expansions," *Stat*, vol. 15, no. 1, e70151, 2026, doi: 10.1002/sta4.70151. [PDF](Papers/Rumsey_Stat_26.pdf) · [R](https://github.com/knrumsey/khaos)
 
 ## 2025
-K. Goode, **J. D. Tucker**, D. Ries, and H. Hoffman, "An Explainable Pipeline for Machine Learning with Functional Data," *Journal of Data Science*, 2025, doi: 10.6339/25-JDS1212. [PDF](Papers/jds1212.pdf) · [CRAN](https://cran.r-project.org/web/packages/veesa/index.html) · [GitHub](https://github.com/sandialabs/veesa)
-
-J. Adams, B. Berman, J. Michalenko, and **J. D. Tucker**, "Conformal Anomaly Detection for Functional Data with Elastic Distance Metrics," *arXiv preprint arXiv:2504.01172*, 2025. [arXiv](https://arxiv.org/abs/2504.01172)
+J. Adams, B. Berman, J. Michalenko, and **J. D. Tucker**, "Conformal Anomaly Detection for Functional Data with Elastic Distance Metrics," *Proc. Symposium on Conformal and Probabilistic Prediction with Applications (COPA)*, Proceedings of Machine Learning Research, vol. 266, 2025. [arXiv](https://arxiv.org/abs/2504.01172)
 
 J. E. Borgert, J. Hannig, **J. D. Tucker**, L. Arbeeva, A. N. Buck, Y. M. Golightly, S. P. Messier, A. E. Nelson, and J. S. Marron, "Elastic Shape Analysis of Movement Data," *JASA Case Studies and Applications*, 2025, doi: 10.1080/01621459.2025.2572778. [PDF](Papers/JASA25_Borgert.pdf)
 
-A. Heiskala, **J. D. Tucker**, P. Choudhary, R. Nedelec, J. Ronkainen, O. Sarala, M. Järvelin, M. J. Sillanpää, and S. Sebert, "Timing based clustering of childhood BMI trajectories reveals differential maturational patterns; Study in the Northern Finland Birth Cohorts 1966 and 1986," *International Journal of Obesity*, vol. 49, pp. 872-880, 2025, doi: 10.1038/s41366-025-01714-8. [PDF](Papers/Heiskala_et_al-2025-International_Journal_of_Obesity.pdf)
+A. Heiskala, **J. D. Tucker**, P. Choudhary, R. Nedelec, J. Ronkainen, O. Sarala, M. Järvelin, M. J. Sillanpää, and S. Sebert, "Timing based clustering of childhood BMI trajectories reveals differential maturational patterns; Study in the Northern Finland Birth Cohorts 1966 and 1986," *International Journal of Obesity*, vol. 49, no. 5, pp. 872-880, 2025, doi: 10.1038/s41366-025-01714-8. [PDF](Papers/Heiskala_et_al-2025-International_Journal_of_Obesity.pdf)
 
 D. Francom, **J. D. Tucker**, J. G. Huerta, K. Shuler, and D. Ries, "Elastic Bayesian Model Calibration," *SIAM/ASA Journal on Uncertainty Quantification*, vol. 13, no. 1, pp. 195-227, 2025, doi: 10.1137/24M1644092. [PDF](Papers/Francom-2025-Calibration-JUQ.pdf) · [Code](https://github.com/sandialabs/efbmc)
 
 ## 2024
-A. McCombs, M. A. Ausdemore, K. Goode, J. G. Huerta, K. Shuler, **J. D. Tucker**, A. Zhang, and D. Ries, "Inverse prediction of PuO2 processing conditions using Bayesian seemingly unrelated regression with functional data," *Frontiers in Nuclear Engineering*, 2024, doi: 10.3389/fnuen.2024.1331349. [PDF](Papers/SUR24FNE.pdf)
+**J. D. Tucker** and D. Yarger, "Elastic Functional Changepoint Detection of Climate Impacts from Localized Sources," *Environmetrics*, vol. 35, no. 1, e2826, 2024, doi: 10.1002/env.2826. [PDF](Papers/Environmetrics23_ElasticChangeDetection.pdf) [2024 Wiley-TIES Best Environmetrics Paper Award]{.badge .text-bg-success}
+
+A. McCombs, M. A. Ausdemore, K. Goode, J. G. Huerta, K. Shuler, **J. D. Tucker**, A. Zhang, and D. Ries, "Inverse prediction of PuO2 processing conditions using Bayesian seemingly unrelated regression with functional data," *Frontiers in Nuclear Engineering*, vol. 3, 2024, doi: 10.3389/fnuen.2024.1331349. [PDF](Papers/SUR24FNE.pdf)
 
 ## 2023
+D. Yarger and **J. D. Tucker**, "Detecting changepoints in globally-indexed functional time series," *arXiv preprint arXiv:2308.05915 [stat.AP]*, 2023. [arXiv](https://arxiv.org/abs/2308.05915)
+
 R. Darling, G. S. Clark, and **J. D. Tucker**, "Hidden Ancestor Graphs: Models for Detagging Property Graphs," *arXiv preprint arXiv:2102.09581 [math.PR]*, 2023. [arXiv](https://arxiv.org/abs/2102.09581)
 
-J. Brown, J. P. Davis, **J. D. Tucker**, J. G. Huerta, and K. Shuler, "Quantifying uncertainty in analysis of shockless dynamic compression experiments on platinum, Part 2: Bayesian model calibration," *Journal of Applied Physics*, vol. 134, no. 23, 2023. [PDF](Papers/JAP23_calibration.pdf) · [Code](https://github.com/sandialabs/efbmc)
+D. Ries, A. Zhang, **J. D. Tucker**, K. Shuler, and M. Ausdemore, "A framework for inverse prediction using functional response data," *Journal of Computing and Information Science in Engineering*, vol. 23, no. 1, 011002, 2023, doi: 10.1115/1.4053752. [PDF](Papers/JCISE-21-1393.pdf)
+
+J. L. Brown, J. P. Davis, **J. D. Tucker**, J. G. Huerta, and K. Shuler, "Quantifying uncertainty in analysis of shockless dynamic compression experiments on platinum. II. Bayesian model calibration," *Journal of Applied Physics*, vol. 134, no. 23, 235902, 2023. [PDF](Papers/JAP23_calibration.pdf) · [Code](https://github.com/sandialabs/efbmc)
 
 C. A. Pattyn, A. W. Edstrom, A. L. Sanchez, K. Westlake, J. D. van der Laan, **J. D. Tucker**, J. Jones, K. Hagopian, J. C. Shank, L. K. Casias, and J. B. Wright, "Event-based sensing for the detection of modulated signals in degraded visual environments," *Proc. SPIE*, vol. 12514, *Image Sensing Technologies: Materials, Devices, Systems, and Applications X*, paper 1251409, 2023. [PDF](Papers/SPIE23.pdf)
 
-**J. D. Tucker** and D. Yarger, "Elastic Functional Changepoint Detection of Climate Impacts from Localized Sources," *Environmetrics*, 2023, doi: 10.1002/env.2826. [PDF](Papers/Environmetrics23_ElasticChangeDetection.pdf) [2024 Wiley-TIES Best Environmetrics Paper Award]{.badge .text-bg-success}
+K. Rumsey, J. G. Huerta, and **J. D. Tucker**, "A Localized Ensemble of Approximate Gaussian Processes for Fast Sequential Emulation," *Stat*, vol. 12, no. 1, e576, 2023, doi: 10.1002/sta4.576. [PDF](Papers/leapGP23.pdf)
 
-K. Rumsey, J. G. Huerta, and **J. D. Tucker**, "A Localized Ensemble of Approximate Gaussian Processes for Fast Sequential Emulation," *Stat*, 2023, doi: 10.1002/sta4.576. [PDF](Papers/leapGP23.pdf)
+**J. D. Tucker**, M. T. Martinez, and J. M. Laborde, "Dimensionality Reduction using Elastic Measures," *Stat*, vol. 12, no. 1, e551, 2023, doi: 10.1002/sta4.551. [PDF](Papers/Stat23.pdf)
 
-**J. D. Tucker**, M. T. Martinez, and J. M. Laborde, "Dimensionality Reduction using Elastic Measures," *Stat*, 2023, doi: 10.1002/sta4.551. [PDF](Papers/Stat23.pdf)
-
-J. Upston, D. Sulsky, **J. D. Tucker**, and Y. Guan, "CIEL\*Ch color map for visualization and analysis of sea ice motion," *Journal of Computational and Applied Mathematics*, 2023, doi: 10.1016/j.cam.2023.115126. [PDF](Papers/1-s2.0-S0377042723000705-main.pdf)
+J. Upston, D. Sulsky, **J. D. Tucker**, and Y. Guan, "CIEL\*Ch color map for visualization and analysis of sea ice motion," *Journal of Computational and Applied Mathematics*, vol. 429, 115126, 2023, doi: 10.1016/j.cam.2023.115126. [PDF](Papers/1-s2.0-S0377042723000705-main.pdf)
 
 ## 2022
-M. A. Ausdemore, A. McCombs, D. Ries, A. Zhang, K. Shuler, K. Goode, **J. D. Tucker**, and J. G. Huerta, "A Probabilistic Inverse Prediction Method for Predicting Plutonium Processing Conditions," *Frontiers in Nuclear Engineering*, 2022, doi: 10.3389/fnuen.2022.1083164. [PDF](Papers/PuBASS_Frontiers_2022.pdf)
+T. Harris, B. Li, and **J. D. Tucker**, "Scalable Multiple Changepoint Detection for Functional Data Sequences," *Environmetrics*, vol. 33, no. 2, e2710, 2022, doi: 10.1002/env.2710. [PDF](Papers/Harris_Environmetrics_21.pdf)
 
-D. Ries, A. Zhang, **J. D. Tucker**, K. Shuler, and M. Ausdemore, "A framework for inverse prediction using functional response data," *Journal of Computing and Information Science in Engineering*, 2022, doi: 10.1115/1.4053752. [PDF](Papers/JCISE-21-1393.pdf)
+M. A. Ausdemore, A. McCombs, D. Ries, A. Zhang, K. Shuler, K. Goode, **J. D. Tucker**, and J. G. Huerta, "A Probabilistic Inverse Prediction Method for Predicting Plutonium Processing Conditions," *Frontiers in Nuclear Engineering*, vol. 1, 2022, doi: 10.3389/fnuen.2022.1083164. [PDF](Papers/PuBASS_Frontiers_2022.pdf)
 
 ## 2021
 L. Patel, L. Shand, **J. D. Tucker**, and G. Huerta, "Spatio-temporal extreme event modeling of terror insurgencies," *arXiv preprint arXiv:2110.08363 [stat.AP]*, 2021. [arXiv](https://arxiv.org/abs/2110.08363)
 
-T. Harris, B. Li, and **J. D. Tucker**, "Scalable Multiple Changepoint Detection for Functional Data Sequences," *Environmetrics*, 2021, doi: 10.1002/env.2710. [PDF](Papers/Harris_Environmetrics_21.pdf)
+C. Ting, N. Johnson, U. Onunkwo, and **J. D. Tucker**, "Faster classification using compression analytics," *Proc. IEEE ICDM Workshop on Data Mining and Machine Learning for Cybersecurity*, October 2021. [PDF](Papers/IEEEDML_CYber21.pdf)
 
-C. Ting, N. Johnson, U. Onunkwo, and **J. D. Tucker**, "Faster classification using compression analytics," *Proc. IEEE ICDM Workshop on Data Mining and Machine Learning for Cybersecurity*, 2021. [PDF](Papers/IEEEDML_CYber21.pdf)
+**J. D. Tucker**, L. Shand, and K. Chowdhary, "Multimodal Bayesian Registration of Noisy Functions using Hamiltonian Monte Carlo," *Computational Statistics and Data Analysis*, vol. 163, 107298, 2021, doi: 10.1016/j.csda.2021.107298. [PDF](Papers/CSDA_Bayesian_21.pdf)
 
-**J. D. Tucker**, L. Shand, and K. Chowdhary, "Multimodal Bayesian Registration of Noisy Functions using Hamiltonian Monte Carlo," *Computational Statistics and Data Analysis*, 2021, doi: 10.1016/j.csda.2021.107298. [PDF](Papers/CSDA_Bayesian_21.pdf)
+C. King, N. Martin, and **J. D. Tucker**, "Bounding Uncertainty in Functional Data: A Case Study," *Quality Engineering*, vol. 33, no. 1, pp. 178-188, 2021. [PDF](Papers/King_QE_20.pdf)
 
-C. King, N. Martin, and **J. D. Tucker**, "Bounding Uncertainty in Functional Data: A Case Study in Reliability," *Quality Engineering*, vol. 33, no. 1, 2021. [PDF](Papers/King_QE_20.pdf)
-
-T. Harris, B. Li, N. J. Steiger, J. E. Smerdon, N. Narisetty, and **J. D. Tucker**, "Testing the exchangeability of two ensembles of spatial processes - Evaluating proxy influence in assimilated paleoclimate reconstructions," *Journal of the American Statistical Association*, vol. 116, no. 535, pp. 1100-1113, 2021, doi: 10.1080/01621459.2020.1799810. [PDF](Papers/JASA20_proxy.pdf) · [R](https://www.tandfonline.com/doi/suppl/10.1080/01621459.2020.1799810)
+T. Harris, B. Li, N. J. Steiger, J. E. Smerdon, N. Narisetty, and **J. D. Tucker**, "Evaluating proxy influence in assimilated paleoclimate reconstructions—Testing the exchangeability of two ensembles of spatial processes," *Journal of the American Statistical Association*, vol. 116, no. 535, pp. 1100-1113, 2021, doi: 10.1080/01621459.2020.1799810. [PDF](Papers/JASA20_proxy.pdf) · [R](https://www.tandfonline.com/doi/suppl/10.1080/01621459.2020.1799810)
 
 T. Harris, **J. D. Tucker**, B. Li, and L. Shand, "Elastic depths for detecting shape anomalies in functional data," *Technometrics*, vol. 63, no. 4, pp. 466-476, 2021, doi: 10.1080/00401706.2020.1811156. [PDF](Papers/Technometrics20_edepth.pdf) · [R](https://www.tandfonline.com/doi/suppl/10.1080/00401706.2020.1811156)
 
 ## 2020
+**J. D. Tucker**, J. R. Lewis, C. King, and S. Kurtek, "A Geometric Approach for Computing Tolerance Bounds for Elastic Functional Data," *Journal of Applied Statistics*, vol. 47, no. 3, pp. 481-505, 2020. [PDF](Papers/JAS20_TB.pdf)
+
 X. Zhang, S. Kurtek, O. Chkrebtii, and **J. D. Tucker**, "Elastic $k$-means clustering of functional data for posterior exploration, with an application to inference on acute respiratory infection dynamics," *arXiv preprint arXiv:2011.12397 [stat.ME]*, 2020. [arXiv](https://arxiv.org/abs/2011.12397)
 
 A. H. Foss, R. B. Lehoucq, W. Z. Stuart, **J. D. Tucker**, and J. W. Berry, "A Deterministic Hitting-Time Moment Approach to Seed-set Expansion over a Graph," *arXiv preprint arXiv:2011.09544 [cs.SI]*, 2020. [arXiv](https://arxiv.org/abs/2011.09544)
 
 L. Patel, L. Shand, **J. D. Tucker**, and G. Huerta, "Assessing Extreme Value Analysis to predict rare events from the Global Terrorism Database," *Proc. JSM*, August 2020. [PDF](Papers/JSM20.pdf)
 
-M. K. Ahn, **J. D. Tucker**, W. Wu, and A. Srivastava, "Regression Models Using Shapes of Functions as Predictors," *Computational Statistics and Data Analysis*, 2020, doi: 10.1016/j.csda.2020.107017. [PDF](Papers/Ahn_CSDA_20.pdf)
+M. Ahn, **J. D. Tucker**, W. Wu, and A. Srivastava, "Regression Models Using Shapes of Functions as Predictors," *Computational Statistics and Data Analysis*, vol. 151, 107017, 2020, doi: 10.1016/j.csda.2020.107017. [PDF](Papers/Ahn_CSDA_20.pdf)
 
-S. Reza, N. Martin, T. Buchheit, and **J. D. Tucker**, "Tolerance Bound Calculation for Compact Model Calibration Using Functional Data Analysis," *Proc. ETDM*, 2020.
+N. Martin and **J. D. Tucker**, "Estimation of physical tolerance bounds for functional data," *Proc. SIAM Conference on Uncertainty Quantification*, 2020.
+
+S. Reza, N. Martin, T. Buchheit, and **J. D. Tucker**, "Tolerance Bound Calculation for Compact Model Calibration Using Functional Data Analysis," *Proc. 4th IEEE Electron Devices Technology and Manufacturing (EDTM) Conference*, 2020.
 
 ## 2019
-**J. D. Tucker**, J. R. Lewis, C. King, and S. Kurtek, "A Geometric Approach for Computing Tolerance Bounds for Elastic Functional Data," *Journal of Applied Statistics*, vol. 47, no. 3, pp. 481-505, 2019. [PDF](Papers/JAS20_TB.pdf)
-
 Y. Guan, C. Sampson, **J. D. Tucker**, W. Chang, A. Mondal, M. Haran, and D. Sulsky, "Computer model calibration based on image warping metrics: an application for sea ice deformation," *Journal of Agricultural, Biological and Environmental Statistics*, vol. 24, no. 3, pp. 444-463, September 2019. [PDF](Papers/Guan2019_Article_ComputerModelCalibrationBasedO.pdf)
 
 **J. D. Tucker**, L. Shand, and J. R. Lewis, "Handling Missing Data in Self-Exciting Point Process Models," *Spatial Statistics*, vol. 29, pp. 160-176, 2019. [PDF](Papers/SPATSTAT18_STPP.pdf)
@@ -93,27 +97,27 @@ M. K. Ahn, **J. D. Tucker**, W. Wu, and A. Srivastava, "Elastic handling of pred
 J. Ramirez, M. Orini, **J. D. Tucker**, P. Laguna, and E. Pueyo, "Variability of Ventricular Repolarization Dispersion Quantified by Time-Warping the Morphology of the T-waves," *IEEE Transactions on Biomedical Engineering*, vol. 64, no. 7, pp. 1619-1630, 2017. [PDF](Papers/TBME_Ramirez.pdf)
 
 ## 2016
-D. Bryner, F. Huffer, M. M. Rosenthal, **J. D. Tucker**, and A. Srivastava, "Linear Minelayer Trajectory Estimation Using Cluttered Point Cloud Data," *Computational Statistics and Data Analysis*, vol. 102, pp. 1-22, October 2016. [PDF](Papers/darshan_csda_2016.pdf)
+D. Bryner, F. Huffer, M. M. Rosenthal, **J. D. Tucker**, and A. Srivastava, "Estimation of Linear Target-Layer Trajectories Using Cluttered Point Cloud Data," *Computational Statistics and Data Analysis*, vol. 102, pp. 1-22, October 2016. [PDF](Papers/darshan_csda_2016.pdf)
 
-J. Ramirez, M. Orini, **J. D. Tucker**, P. Laguna, and E. Pueyo, "An Index for T‐wave Pointwise Amplitude Variability Quantification," *Proc. Computing in Cardiology (CinC)*, September 2016. [PDF](Papers/CINC16.pdf) **Mortara Winner**
+J. Ramirez, M. Orini, **J. D. Tucker**, E. Pueyo, and P. Laguna, "An Index for T‐wave Pointwise Amplitude Variability Quantification," *Proc. Computing in Cardiology (CinC)*, September 2016. [PDF](Papers/CINC16.pdf) **Mortara Winner**
 
 **J. D. Tucker**, "Functional Statistical Process Control using Elastic Methods," *Proc. JSM*, August 2016. [PDF](Papers/JSM16.pdf)
 
-D. Bryner, F. Huffer, A. Srivastava, and **J. D. Tucker**, "Underwater Mine Detection In Clutter Data Using Spatial Point Process Models," *IEEE Journal of Oceanic Engineering*, vol. 41, no. 3, pp. 670-681, 2016. [PDF](Papers/JOE-07398189.pdf)
+D. Bryner, F. Huffer, A. Srivastava, and **J. D. Tucker**, "Underwater Minefield Detection in Clutter Data Using Spatial Point-Process Models," *IEEE Journal of Oceanic Engineering*, vol. 41, no. 3, pp. 670-681, 2016. [PDF](Papers/JOE-07398189.pdf)
 
 T. G-Michael, B. Marchand, **J. D. Tucker**, D. D. Sternlicht, T. M. Marston, and M. R. Azimi-Sadjadi, "Image-based Automated Change Detection for Synthetic Aperture Sonar," *IEEE Journal of Oceanic Engineering*, vol. 41, no. 3, pp. 592-612, 2016. [PDF](Papers/JOE-07323881.pdf)
 
 T. G-Michael, **J. D. Tucker**, and R. R. Roberts, "Statistically Normalized Coherent Change Detection for Synthetic Aperture Sonar Imagery," *Proc. SPIE*, April 2016. [PDF](Papers/SPIE16.pdf)
 
 ## 2014
-**J. D. Tucker**, W. Wu, and A. Srivastava, "Phase-Amplitude Separation of Proteomics Data Using Extended Fisher-Rao Metric," *Electronic Journal of Statistics*, vol. 8, no. 2, pp. 1724-1733, 2014. [PDF](Papers/euclid.ejs.1414588155.pdf) · [Code](https://cran.r-project.org/web/packages/fdasrvf/index.html)
+**J. D. Tucker**, W. Wu, and A. Srivastava, "Analysis of Proteomics Data: Phase Amplitude Separation Using an Extended Fisher-Rao Metric," *Electronic Journal of Statistics*, vol. 8, no. 2, pp. 1724-1733, 2014. [PDF](Papers/euclid.ejs.1414588155.pdf) · [Code](https://cran.r-project.org/web/packages/fdasrvf/index.html)
 
-T. G-Michael, B. Marchand, **J. D. Tucker**, D. D. Sternlicht, and T. M. Marston, "Automated Change Detection for Synthetic Aperture Sonar," *Proc. SPIE*, May 2014. [PDF](Papers/spie14.pdf)
+T. G-Michael, B. Marchand, **J. D. Tucker**, D. D. Sternlicht, and T. M. Marston, "Automated Change Detection for Synthetic Aperture Sonar," *Proc. SPIE*, vol. 9072, pp. O1-O10, May 2014. [PDF](Papers/spie14.pdf)
 
 **J. D. Tucker**, W. Wu, and A. Srivastava, "Analysis of signals under compositional noise with applications to SONAR data," *IEEE Journal of Oceanic Engineering*, vol. 39, no. 2, pp. 318-330, April 2014. [PDF](Papers/IEEEJOE_AC.pdf) · [Code](https://cran.r-project.org/web/packages/fdasrvf/index.html)
 
 ## 2013
-**J. D. Tucker**, W. Wu, and A. Srivastava, "Generative Models for Function Data using Phase and Amplitude Separation," *Computational Statistics and Data Analysis*, vol. 61, pp. 50-66, May 2013. [PDF](Papers/CSDA_PCA_12.pdf) · [R](https://cran.r-project.org/web/packages/fdasrvf/index.html) · [MATLAB](https://github.com/jdtuck/fdasrvf_MATLAB) · [Python](https://github.com/jdtuck/fdasrsf_python) · [Julia](https://github.com/jdtuck/ElasticFDA.jl)
+**J. D. Tucker**, W. Wu, and A. Srivastava, "Generative Models for Functional Data using Phase and Amplitude Separation," *Computational Statistics and Data Analysis*, vol. 61, pp. 50-66, May 2013. [PDF](Papers/CSDA_PCA_12.pdf) · [R](https://cran.r-project.org/web/packages/fdasrvf/index.html) · [MATLAB](https://github.com/jdtuck/fdasrvf_MATLAB) · [Python](https://github.com/jdtuck/fdasrsf_python) · [Julia](https://github.com/jdtuck/ElasticFDA.jl)
 
 ## 2012
 **J. D. Tucker**, W. Wu, and A. Srivastava, "Analysis of Signals Under Compositional Noise with Application to SONAR Data," *Proc. MTS/IEEE Oceans 2012*, pp. 1-6, October 2012. [PDF](Papers/Oceans12.pdf)
@@ -148,12 +152,12 @@ N. Klausner, M. R. Azimi-Sadjadi, and **J. D. Tucker**, "Underwater target detec
 ## 2008
 **J. D. Tucker** and M. R. Azimi-Sadjadi, "Coherence-based underwater target detection and classification for side-scan sonar imagery," *Sea Technology Magazine*, vol. 12, pp. 10-14, December 2008. [PDF](Papers/seatechnology08.pdf)
 
-**J. D. Tucker**, N. Klausner, and M. R. Azimi-Sadjadi, "Target detection in m-disparate sonar platforms using multichannel Hypothesis Testing," *Proc. MTS/IEEE Oceans 2008*, pp. 1-7, September 2008. [PDF](Papers/oceans08.pdf)
+**J. D. Tucker**, N. Klausner, and M. R. Azimi-Sadjadi, "Target detection in M-disparate sonar platforms using multichannel hypothesis testing," *Proc. MTS/IEEE Oceans 2008*, pp. 1-7, September 2008. [PDF](Papers/oceans08.pdf)
 
 M. R. Azimi-Sadjadi and **J. D. Tucker**, "Target detection from dual disparate sonar platforms using canonical correlations," *Proc. SPIE*, vol. 6953, paper 69530J, March 2008. [PDF](Papers/spie08.pdf)
 
 ## 2007
-**J. D. Tucker**, M. R. Azimi-Sadjadi, and G. J. Dobeck, "Canonical coordinates for detection and classification of underwater objects from sonar imagery," *Proc. IEEE Oceans 2007*, pp. 1-6, June 2007. [PDF](Papers/oceans07.pdf)
+**J. D. Tucker**, M. R. Azimi-Sadjadi, and G. J. Dobeck, "Canonical coordinates for detection and classification of underwater objects from sonar imagery," *Proc. IEEE OCEANS 2007 Conference Europe*, pp. 1-6, June 2007. [PDF](Papers/oceans07.pdf)
 
 **J. D. Tucker**, M. R. Azimi-Sadjadi, and G. J. Dobeck, "Coherent-based method for detection of underwater objects from sonar imagery," *Proc. SPIE*, vol. 6553, paper 65530U, April 2007. [PDF](Papers/spie07.pdf)
 
